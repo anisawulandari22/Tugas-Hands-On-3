@@ -13,6 +13,8 @@ Repositori ini berisi pengerjaan **Tugas Hands-On 3** menggunakan studi kasus **
 
 ---
 
+[Buka Notebook di Google Colab](https://colab.research.google.com/drive/1tjfKzUyXUHmVoI8a0n-YoGxaH8wLBnqq?usp=sharing)
+
 ## 🔍 Hasil Audit Kualitas Data
 
 Berdasarkan fungsi audit kualitas (`cek_kualitas`), berikut adalah ringkasan perubahan kondisi data sebelum dan sesudah pembersihan:

@@ -1,0 +1,1201 @@
+employee_id,usia,jenis_kelamin,departemen,jabatan,bidang_pendidikan,lama_di_perusahaan_tahun,lama_di_jabatan_tahun,gaji_bulanan_idr,lembur,kepuasan_kerja,keseimbangan_hidup_kerja,kepuasan_lingkungan,jumlah_perusahaan_sebelumnya,pelatihan_tahun_ini,rating_performa,keluar_perusahaan
+EMP00001,33,Perempuan,IT,Data Engineer,IPS,11,11,15354728,Tidak,4,3,2,0,0,4,Tidak
+EMP00002,53,Laki-laki,Operations,Manajer Logistik,,2,2,26936991,Tidak,4,2,4,5,3,2,Tidak
+EMP00003,52,Laki-laki,IT,Data Analyst,Bisnis,8,3,23169281,Tidak,1,,3,1,2,1,Tidak
+EMP00004,27,,Sales,Sales Manager,IPS,0,0,40689975,Tidak,2,4,3,4,3,3,Tidak
+EMP00005,43,Perempuan,HR,Recruiter,IPS,10,10,17935369,Ya,4,2,2,8,0,1,Ya
+EMP00006,55,Perempuan,Operations,Manajer Logistik,Bisnis,12,1,31236732,Tidak,3,2,1,4,4,2,Tidak
+EMP00007,33,Laki-laki,IT,Data Engineer,IPA,8,5,32999515,Ya,1,3,1,7,3,3,Ya
+EMP00008,56,Perempuan,Sales,Sales Manager,Bisnis,17,6,38662235,Ya,4,3,1,1,6,3,Tidak
+EMP00009,45,Laki-laki,Finance,Financial Analyst,IPA,0,0,42628237,Tidak,4,1,3,5,0,4,Tidak
+EMP00010,28,Laki-laki,Sales,Sales Representative,Sains,11,8,37741627,Tidak,1,3,2,4,0,1,Ya
+EMP00011,57,Perempuan,Operations,Supervisor,IPA,12,6,33419380,Ya,2,3,1,5,0,1,Ya
+EMP00012,23,Laki-laki,Sales,Sales Representative,Bisnis,10,5,54999782,Tidak,4,3,3,0,2,1,Tidak
+EMP00013,57,Laki-laki,Operations,Manajer Logistik,,19,11,37470976,Tidak,4,1,3,7,6,2,Tidak
+EMP00014,58,Laki-laki,Sales,Sales Manager,Kedokteran,8,3,14988250,Tidak,2,2,4,8,6,1,Ya
+EMP00015,23,Perempuan,HR,Recruiter,Teknik,14,10,49434969,Tidak,4,2,3,4,1,4,Tidak
+EMP00016,51,Perempuan,Sales,Sales Manager,Bisnis,20,9,48556209,Ya,,4,1,2,6,3,Ya
+EMP00017,40,Laki-laki,Operations,Staff Operasional,IPA,3,3,42936134,,2,3,1,5,1,2,Tidak
+EMP00018,26,Perempuan,HR,Training Specialist,Teknik,,1,22429993,Tidak,2,4,1,9,3,2,Tidak
+EMP00019,33,Laki-laki,IT,DevOps,Kedokteran,18,9,62017858,Tidak,3,3,2,,4,4,Tidak
+EMP00020,57,Laki-laki,IT,Software Engineer,Bisnis,5,5,54873917,Tidak,3,4,4,2,3,3,Tidak
+EMP00021,55,Laki-laki,Sales,Account Executive,Teknik,6,1,40959617,Tidak,2,2,1,9,6,2,Ya
+EMP00022,49,Laki-laki,Sales,Sales Manager,Teknik,15,9,5291036,,4,2,2,3,4,1,Tidak
+EMP00023,52,Laki-laki,Finance,Budget Controller,Bisnis,12,6,27399696,Ya,1,2,2,4,6,3,Ya
+EMP00024,30,Laki-laki,IT,QA Engineer,Teknik,9,4,52937947,Ya,4,2,,3,4,3,Tidak
+EMP00025,24,Laki-laki,Sales,Sales Representative,IPA,18,,4251666,Tidak,3,,3,2,0,4,Tidak
+EMP00026,46,Perempuan,Finance,Financial Analyst,Kedokteran,9,9,38126747,Ya,2,1,4,3,,4,Tidak
+EMP00027,58,Laki-laki,IT,Data Analyst,Teknik,1,1,26094515,Ya,1,1,3,1,6,1,Ya
+EMP00028,52,Perempuan,Finance,,Kedokteran,9,1,43326346,Tidak,2,1,4,5,6,2,Tidak
+EMP00029,44,Laki-laki,HR,Recruiter,Bisnis,11,7,50187058,Ya,3,3,1,5,4,2,Ya
+EMP00030,26,Perempuan,IT,DevOps,Teknik,7,3,35977768,Tidak,3,1,2,6,2,2,Ya
+EMP00031,42,Laki-laki,HR,HR Specialist,IPA,12,5,4852955,Ya,,3,2,1,6,2,Ya
+EMP00032,23,Perempuan,,Staff Operasional,Kedokteran,20,5,44912131,Tidak,2,3,,3,5,4,Tidak
+EMP00033,33,Perempuan,IT,Software Engineer,Sains,14,0,30680706,Ya,2,4,1,1,1,1,Ya
+EMP00034,33,Laki-laki,Finance,Akuntan,IPS,3,3,57667599,Ya,1,2,4,1,1,3,Ya
+EMP00035,42,Perempuan,Operations,Supervisor,,2,0,40613763,Tidak,4,2,4,5,0,3,Tidak
+EMP00036,34,Perempuan,Sales,Account Executive,IPS,14,11,41003139,Ya,3,2,1,1,6,3,Tidak
+EMP00037,27,Laki-laki,Sales,Account Executive,,2,2,48314315,Ya,4,1,4,4,1,2,Tidak
+EMP00038,28,Perempuan,Sales,Sales Manager,Kedokteran,18,6,25611739,Ya,1,1,4,2,1,1,Ya
+EMP00039,55,Perempuan,Sales,Account Executive,Teknik,12,10,22297159,Tidak,1,4,3,0,1,3,Tidak
+EMP00040,37,Laki-laki,Finance,Akuntan,Kedokteran,9,5,16680084,Tidak,4,1,4,5,5,3,Ya
+EMP00041,30,Laki-laki,Finance,Akuntan,Kedokteran,12,0,21837168,Tidak,2,1,3,3,3,2,Tidak
+EMP00042,51,Perempuan,HR,HR Specialist,IPS,4,1,9268634,Ya,3,3,3,0,6,4,Tidak
+EMP00043,48,Perempuan,Finance,Akuntan,Sains,5,0,47481967,Tidak,2,3,4,5,2,3,Tidak
+EMP00044,22,Perempuan,HR,Recruiter,Kedokteran,11,2,53848675,Tidak,3,1,2,8,3,4,Ya
+EMP00045,56,Perempuan,IT,Data Engineer,IPS,1,1,20452719,Tidak,4,1,3,4,5,4,Tidak
+EMP00046,48,Perempuan,IT,Data Analyst,Bisnis,8,6,30249293,Tidak,3,4,3,3,0,2,Tidak
+EMP00047,25,Perempuan,IT,Data Analyst,Teknik,5,4,38869202,Tidak,2,1,4,9,2,1,Ya
+EMP00048,54,Laki-laki,HR,HR Specialist,Teknik,,0,25447368,Tidak,4,2,1,8,2,4,Tidak
+EMP00049,55,Laki-laki,IT,DevOps,IPS,7,4,60759513,Ya,4,2,4,3,6,1,Tidak
+EMP00050,36,Laki-laki,Sales,Sales Manager,Bisnis,11,7,13757104,Tidak,4,,4,7,2,2,Tidak
+EMP00051,55,Perempuan,,Financial Analyst,IPS,7,5,52069772,Tidak,2,4,3,5,0,4,Tidak
+EMP00052,55,Laki-laki,Sales,Sales Manager,Sains,10,10,35604763,Ya,4,4,1,2,0,1,Ya
+EMP00053,53,Laki-laki,HR,Recruiter,IPA,17,12,54373651,Tidak,2,,1,2,3,1,Ya
+EMP00054,37,Perempuan,IT,Data Analyst,Bisnis,19,8,39048419,Ya,3,4,1,8,2,4,Tidak
+EMP00055,57,Laki-laki,Sales,Sales Manager,Teknik,18,7,,Ya,3,3,3,9,2,4,Tidak
+EMP00056,25,Perempuan,Operations,Staff Operasional,IPS,8,6,5926605,Ya,2,3,2,4,,,Ya
+EMP00057,50,Laki-laki,Finance,Akuntan,Sains,20,0,21277061,Tidak,1,1,3,5,0,4,Ya
+EMP00058,22,Perempuan,Operations,Supervisor,IPA,18,,35412513,Ya,2,4,2,5,5,4,Ya
+EMP00059,44,Perempuan,IT,Data Engineer,Bisnis,0,0,57836045,Ya,4,2,3,2,1,1,Tidak
+EMP00060,43,Laki-laki,Sales,Sales Manager,Kedokteran,4,4,64432722,Tidak,4,4,1,7,3,3,Tidak
+EMP00061,21,Perempuan,Sales,Sales Manager,Teknik,18,7,21218237,Ya,1,1,,9,2,1,Ya
+EMP00062,54,Laki-laki,HR,Recruiter,,1,1,47843482,Ya,4,3,2,4,0,4,Ya
+EMP00063,42,Perempuan,Operations,Staff Operasional,Kedokteran,3,1,5653384,Ya,1,2,3,8,5,1,Tidak
+EMP00064,42,Laki-laki,Finance,Akuntan,IPS,0,0,26516501,Tidak,2,3,2,7,3,1,Tidak
+EMP00065,21,Laki-laki,Operations,Manajer Logistik,Sains,14,12,18783656,Ya,2,2,3,5,0,2,Ya
+EMP00066,54,Perempuan,Sales,Account Executive,Bisnis,15,4,64548754,,2,2,2,9,3,4,Tidak
+EMP00067,53,Laki-laki,Sales,Sales Representative,IPS,14,7,25838218,Tidak,4,2,4,2,0,3,Tidak
+EMP00068,49,Perempuan,Operations,Staff Operasional,,1,0,,Ya,3,2,2,3,6,2,Tidak
+EMP00069,49,,HR,Training Specialist,Bisnis,14,10,14791811,Tidak,1,1,4,0,5,1,Ya
+EMP00070,31,Laki-laki,Finance,Financial Analyst,Bisnis,11,2,47282833,Ya,3,2,2,6,2,4,Ya
+EMP00071,29,Perempuan,Operations,Staff Operasional,Sains,13,8,,Ya,3,1,4,0,1,1,Tidak
+EMP00072,42,Laki-laki,,Account Executive,Sains,6,2,17786193,Tidak,3,1,4,3,4,4,Tidak
+EMP00073,40,Laki-laki,Finance,Financial Analyst,Teknik,1,1,9434008,Ya,1,2,1,6,5,2,Tidak
+EMP00074,32,Perempuan,Sales,Sales Manager,Bisnis,17,2,55303079,Ya,1,3,4,4,0,3,Ya
+EMP00075,44,Perempuan,Sales,Account Executive,Teknik,6,3,52751732,Tidak,3,4,2,0,2,,Tidak
+EMP00076,31,Perempuan,IT,DevOps,IPS,3,3,36923628,Tidak,4,3,1,1,1,1,Tidak
+EMP00077,24,Laki-laki,HR,Recruiter,IPA,12,4,12449664,Ya,2,4,1,3,3,4,Ya
+EMP00078,28,Laki-laki,HR,Training Specialist,Teknik,4,4,39300815,Tidak,3,2,2,2,0,1,Tidak
+EMP00079,34,Perempuan,Finance,Budget Controller,IPS,18,1,54918377,Ya,1,1,2,6,0,3,Tidak
+EMP00080,29,,HR,Training Specialist,IPS,8,6,59999626,Ya,3,1,2,0,2,3,Tidak
+EMP00081,42,Laki-laki,Operations,,IPS,16,1,50925085,Ya,3,3,3,7,2,3,Tidak
+EMP00082,49,Perempuan,Sales,Account Executive,,1,1,23451341,Ya,3,4,2,8,4,3,Ya
+EMP00083,53,Laki-laki,Finance,Akuntan,Teknik,16,2,7793493,Tidak,3,4,4,4,5,2,Ya
+EMP00084,58,Perempuan,IT,Data Analyst,Bisnis,13,0,28079903,Ya,2,3,4,9,2,2,Tidak
+EMP00085,45,Laki-laki,Finance,Financial Analyst,Teknik,10,9,8316361,Tidak,,2,2,9,6,2,Tidak
+EMP00086,41,Perempuan,IT,Software Engineer,IPS,9,1,46767058,Tidak,4,3,4,8,1,3,Tidak
+EMP00087,54,Laki-laki,IT,QA Engineer,IPA,20,10,16641516,Tidak,2,3,4,7,1,3,Tidak
+EMP00088,47,Perempuan,IT,Data Analyst,Kedokteran,8,5,64682783,Ya,3,1,2,0,4,3,Tidak
+EMP00089,23,,Operations,,IPS,3,1,13466497,Tidak,1,4,3,9,4,1,Tidak
+EMP00090,33,Perempuan,IT,Data Engineer,Kedokteran,14,3,42967246,Tidak,1,1,1,3,2,3,Tidak
+EMP00091,57,Laki-laki,IT,DevOps,IPS,1,0,12208051,Tidak,4,2,4,0,3,1,Ya
+EMP00092,33,Perempuan,,Account Executive,IPA,14,10,49284013,Tidak,4,1,2,1,2,,Tidak
+EMP00093,37,Perempuan,Operations,Supervisor,Bisnis,6,6,48462075,Tidak,2,1,2,2,6,2,Tidak
+EMP00094,49,Laki-laki,Finance,Financial Analyst,IPS,17,12,62718853,Tidak,1,3,,0,1,1,Ya
+EMP00095,41,Perempuan,Operations,Supervisor,Kedokteran,13,10,49351373,,1,4,1,9,3,3,Tidak
+EMP00096,41,Laki-laki,Finance,Financial Analyst,IPA,2,2,40028107,Tidak,2,2,2,8,4,1,Tidak
+EMP00097,27,Perempuan,Operations,Manajer Logistik,Teknik,5,5,21838162,,4,4,1,3,3,4,Tidak
+EMP00098,34,Laki-laki,IT,DevOps,Sains,7,,53694711,Tidak,2,3,2,9,4,2,Tidak
+EMP00099,25,Perempuan,Finance,Akuntan,Kedokteran,4,2,41687818,Tidak,2,4,2,9,1,1,Tidak
+EMP00100,47,Laki-laki,Operations,Staff Operasional,IPA,8,8,43197789,Ya,,4,2,5,1,1,Tidak
+EMP00101,36,Laki-laki,IT,Data Analyst,IPA,14,10,55350439,,2,1,2,7,3,1,Tidak
+EMP00102,50,Laki-laki,IT,Software Engineer,Kedokteran,18,1,35619584,Tidak,1,2,4,0,5,4,Ya
+EMP00103,34,Perempuan,Finance,Budget Controller,IPA,18,5,10609933,Tidak,1,3,4,3,6,3,Tidak
+EMP00104,24,Laki-laki,,Software Engineer,Sains,18,9,20416794,Tidak,4,3,2,8,0,1,Tidak
+EMP00105,,Perempuan,HR,Recruiter,Kedokteran,,6,11070905,Ya,2,1,2,2,5,3,Ya
+EMP00106,22,Laki-laki,Sales,Sales Manager,Bisnis,15,9,5225206,Tidak,1,2,4,0,6,3,Ya
+EMP00107,42,Perempuan,Operations,Staff Operasional,,13,4,,Ya,1,,1,6,4,3,Ya
+EMP00108,58,Laki-laki,Finance,Akuntan,Sains,9,1,34733047,Tidak,3,1,4,5,2,1,Tidak
+EMP00109,21,Laki-laki,HR,Recruiter,IPA,19,6,12442854,Ya,1,3,3,7,4,,Tidak
+EMP00110,,Perempuan,Sales,Sales Representative,Sains,14,10,10768733,Ya,,2,3,8,6,4,Tidak
+EMP00111,40,Perempuan,Finance,Akuntan,IPA,20,10,15250286,Ya,4,2,1,9,0,3,Tidak
+EMP00112,33,Laki-laki,Finance,Budget Controller,Kedokteran,20,0,33104399,Ya,1,3,2,2,4,1,Ya
+EMP00113,43,Laki-laki,Sales,Account Executive,Bisnis,6,4,54006651,Tidak,4,4,4,8,6,2,Tidak
+EMP00114,40,Laki-laki,Finance,Financial Analyst,Kedokteran,12,1,37208239,Tidak,1,4,3,5,2,4,Tidak
+EMP00115,53,Perempuan,Operations,,Teknik,4,4,5289611,Ya,3,4,3,,1,2,Tidak
+EMP00116,49,Laki-laki,IT,Data Engineer,Sains,6,6,14822978,Tidak,1,1,1,8,1,4,Ya
+EMP00117,35,Laki-laki,Sales,Account Executive,Bisnis,2,2,31587965,Tidak,2,4,1,6,5,1,Tidak
+EMP00118,42,Perempuan,Sales,Sales Manager,Kedokteran,14,5,22301300,Ya,3,4,4,4,0,3,Tidak
+EMP00119,30,Perempuan,IT,QA Engineer,Sains,16,0,16779986,,3,2,2,,1,4,Tidak
+EMP00120,40,Perempuan,Sales,Sales Representative,IPS,19,12,51030415,Ya,1,1,2,3,5,4,Ya
+EMP00121,40,Perempuan,HR,Training Specialist,IPA,17,7,11845683,Tidak,4,4,1,3,,1,Tidak
+EMP00122,27,Perempuan,Finance,Akuntan,IPA,10,8,46665101,Ya,3,3,3,7,,3,Tidak
+EMP00123,35,Laki-laki,HR,Recruiter,Kedokteran,15,10,12340181,Ya,1,3,1,7,3,1,Ya
+EMP00124,44,Perempuan,Finance,Budget Controller,IPA,4,2,8012253,Ya,1,2,1,1,4,3,Ya
+EMP00125,52,Laki-laki,Operations,Supervisor,IPS,5,0,62559357,Ya,2,4,2,1,4,4,Tidak
+EMP00126,53,Perempuan,Sales,Account Executive,Kedokteran,16,11,26309807,Tidak,1,,1,,5,3,Tidak
+EMP00127,22,Perempuan,HR,HR Specialist,IPA,11,6,14821056,Ya,1,4,1,7,0,1,Ya
+EMP00128,24,Laki-laki,Sales,Account Executive,Teknik,4,4,8074995,Ya,2,1,3,9,1,2,Tidak
+EMP00129,31,Laki-laki,Operations,Staff Operasional,Bisnis,,10,52427169,Ya,2,4,3,0,6,1,Ya
+EMP00130,46,Laki-laki,Sales,Sales Representative,Sains,2,2,7422995,Tidak,1,4,3,4,5,2,Tidak
+EMP00131,48,Perempuan,Finance,Financial Analyst,Bisnis,20,9,57711311,Tidak,4,,3,7,4,4,Tidak
+EMP00132,41,Laki-laki,Finance,Financial Analyst,Kedokteran,17,6,19520109,Ya,3,4,2,,4,3,Tidak
+EMP00133,27,Laki-laki,HR,Training Specialist,Kedokteran,20,10,19409572,Tidak,4,1,4,5,6,4,Tidak
+EMP00134,26,Laki-laki,HR,Recruiter,Kedokteran,16,0,24544449,Ya,2,2,4,,2,1,Tidak
+EMP00135,35,Perempuan,Operations,Manajer Logistik,Teknik,14,8,54194163,Ya,2,1,1,9,1,1,Tidak
+EMP00136,52,Laki-laki,Operations,Staff Operasional,IPA,7,7,36457637,Tidak,2,1,1,9,6,1,Tidak
+EMP00137,40,Laki-laki,Operations,Manajer Logistik,Bisnis,12,5,49069729,Tidak,1,2,3,2,0,1,Tidak
+EMP00138,21,Perempuan,Operations,Staff Operasional,Bisnis,5,5,11881073,Tidak,1,2,4,5,2,4,Tidak
+EMP00139,43,Perempuan,Sales,Sales Representative,Bisnis,6,,60375212,Tidak,3,3,1,2,1,2,Tidak
+EMP00140,36,Perempuan,Finance,Financial Analyst,Sains,19,2,35723931,Tidak,2,1,2,6,6,3,Ya
+EMP00141,38,Perempuan,Operations,Manajer Logistik,IPS,4,4,46627314,Ya,1,2,4,4,3,3,Ya
+EMP00142,35,Perempuan,Operations,Manajer Logistik,Bisnis,12,2,,Tidak,3,3,2,0,1,1,Tidak
+EMP00143,33,Laki-laki,Finance,Akuntan,IPS,17,3,10793937,Tidak,4,1,1,5,5,3,Tidak
+EMP00144,58,Laki-laki,Operations,Supervisor,Sains,3,3,53696017,Tidak,4,2,3,0,2,3,Tidak
+EMP00145,40,Perempuan,IT,Data Analyst,IPA,7,5,60921997,Tidak,3,2,1,7,6,2,Ya
+EMP00146,25,Laki-laki,IT,Data Analyst,IPS,18,6,35223346,Tidak,1,4,1,9,2,1,Tidak
+EMP00147,49,,Operations,Supervisor,IPA,3,3,61482930,Tidak,3,3,4,7,3,3,Tidak
+EMP00148,57,Perempuan,IT,QA Engineer,IPS,3,3,19537884,Tidak,2,3,1,5,6,4,Tidak
+EMP00149,25,Perempuan,Sales,Sales Manager,Kedokteran,18,0,22705597,Tidak,2,2,1,,6,4,Tidak
+EMP00150,41,Perempuan,Sales,Sales Representative,IPA,15,6,46806306,Ya,1,3,4,0,,1,Ya
+EMP00151,22,Laki-laki,Sales,Account Executive,Sains,8,,60412090,Ya,2,1,2,9,5,3,Ya
+EMP00152,22,Perempuan,IT,Data Engineer,IPA,6,1,12708125,Tidak,1,3,4,0,5,4,Tidak
+EMP00153,51,Perempuan,Sales,Sales Manager,IPS,1,1,41452143,Tidak,3,3,4,1,6,2,Tidak
+EMP00154,45,Laki-laki,HR,Training Specialist,Bisnis,12,9,34738133,Tidak,2,3,3,2,6,2,Tidak
+EMP00155,38,Perempuan,Finance,Budget Controller,IPA,15,0,57126569,Tidak,,2,1,7,6,2,Tidak
+EMP00156,23,Laki-laki,Sales,Sales Manager,Sains,19,4,57166824,Ya,1,4,4,1,4,1,Ya
+EMP00157,52,Perempuan,HR,Recruiter,Kedokteran,14,11,47602967,Tidak,1,1,3,4,3,4,Ya
+EMP00158,21,Perempuan,Sales,Account Executive,Sains,13,3,52335463,Tidak,1,3,4,0,5,1,Tidak
+EMP00159,,Laki-laki,Sales,Sales Representative,IPA,5,1,6474830,Tidak,2,1,2,1,2,2,Ya
+EMP00160,47,Perempuan,Operations,Manajer Logistik,Bisnis,0,0,46866869,,1,4,3,7,0,1,Tidak
+EMP00161,30,Laki-laki,HR,HR Specialist,Teknik,17,9,39127029,Tidak,4,2,4,1,1,4,Tidak
+EMP00162,29,,IT,Software Engineer,Bisnis,11,4,41876571,Tidak,2,4,1,4,4,1,Tidak
+EMP00163,55,Laki-laki,Sales,Sales Manager,Kedokteran,13,1,11805392,Tidak,2,1,2,8,6,4,Ya
+EMP00164,34,Perempuan,HR,Recruiter,Teknik,5,0,61442663,Ya,1,1,3,9,4,3,Ya
+EMP00165,51,Laki-laki,HR,HR Specialist,Bisnis,9,9,57677158,Ya,3,3,2,2,6,1,Tidak
+EMP00166,36,Perempuan,IT,QA Engineer,Sains,12,6,44955308,Ya,1,4,3,8,,1,Ya
+EMP00167,21,Laki-laki,Sales,Account Executive,IPS,15,,61632841,Ya,3,2,2,4,0,3,Tidak
+EMP00168,58,Perempuan,HR,Recruiter,Kedokteran,16,0,42745257,Tidak,3,1,1,0,1,3,Ya
+EMP00169,52,Laki-laki,IT,Software Engineer,Kedokteran,15,8,16931783,Tidak,3,4,3,2,6,2,Tidak
+EMP00170,29,Laki-laki,Sales,Sales Manager,Sains,9,2,24646825,Tidak,4,1,1,3,4,4,Ya
+EMP00171,57,Laki-laki,Operations,Manajer Logistik,Teknik,3,3,47918036,Tidak,,2,2,4,6,2,Tidak
+EMP00172,23,Laki-laki,HR,Training Specialist,Bisnis,14,10,41308795,Ya,3,,4,7,6,1,Tidak
+EMP00173,53,Laki-laki,IT,DevOps,Bisnis,,3,44952526,,3,1,1,6,4,1,Tidak
+EMP00174,52,Perempuan,Sales,Account Executive,Kedokteran,17,11,52636147,Tidak,2,4,4,2,3,3,Tidak
+EMP00175,32,Perempuan,Sales,Sales Representative,Sains,14,1,9300845,Ya,3,4,2,,0,2,Tidak
+EMP00176,39,Laki-laki,IT,Data Engineer,Kedokteran,9,5,38193422,Tidak,1,2,1,,6,3,Tidak
+EMP00177,47,Laki-laki,IT,DevOps,IPA,10,10,44452187,Ya,3,2,3,1,1,4,Tidak
+EMP00178,34,Laki-laki,IT,Data Engineer,Teknik,16,11,20921589,Ya,1,1,4,1,5,3,Tidak
+EMP00179,45,,Sales,Sales Manager,Teknik,10,7,21964419,Ya,4,3,2,7,2,2,Tidak
+EMP00180,24,Perempuan,Finance,Akuntan,Sains,19,2,20603290,Tidak,2,4,2,9,0,3,Tidak
+EMP00181,55,Laki-laki,Sales,Account Executive,Bisnis,4,4,24752685,,3,1,2,4,3,3,Tidak
+EMP00182,54,Laki-laki,Finance,Financial Analyst,Bisnis,0,0,19659597,Tidak,2,2,2,6,0,4,Ya
+EMP00183,,Perempuan,Finance,Financial Analyst,Kedokteran,15,12,55707049,Tidak,2,,1,9,1,4,Tidak
+EMP00184,39,Perempuan,HR,HR Specialist,Teknik,,9,31544627,Tidak,3,2,1,8,1,2,Tidak
+EMP00185,41,Perempuan,HR,Recruiter,IPS,10,2,53445279,Tidak,3,3,1,3,2,1,Tidak
+EMP00186,28,Perempuan,Sales,Sales Manager,Teknik,19,8,58043754,Ya,2,1,3,3,0,1,Tidak
+EMP00187,34,Perempuan,HR,Training Specialist,Bisnis,11,9,21329357,Tidak,,4,1,2,5,3,Tidak
+EMP00188,58,Laki-laki,Finance,Akuntan,IPA,13,6,49405442,Ya,,3,2,0,4,4,Ya
+EMP00189,33,Perempuan,HR,Training Specialist,Kedokteran,19,0,18087250,Ya,2,4,4,8,2,1,Ya
+EMP00190,27,Perempuan,Sales,Account Executive,Teknik,16,11,31685973,Ya,1,2,2,9,0,1,Ya
+EMP00191,56,Perempuan,Operations,Supervisor,Sains,5,5,57073620,Ya,2,3,3,0,0,4,Tidak
+EMP00192,56,Perempuan,Finance,Financial Analyst,Sains,17,6,24474522,Ya,4,1,3,2,0,1,Tidak
+EMP00193,29,Perempuan,IT,Software Engineer,Teknik,18,9,12705103,Ya,3,,3,0,1,2,Tidak
+EMP00194,44,Perempuan,Sales,Account Executive,Teknik,10,2,17669048,Ya,3,2,3,8,1,1,Tidak
+EMP00195,37,Perempuan,Sales,Sales Manager,Bisnis,20,2,52098976,Tidak,4,3,1,7,4,1,Tidak
+EMP00196,31,Perempuan,HR,Recruiter,,18,1,52642359,Ya,4,4,3,4,1,4,Tidak
+EMP00197,44,Laki-laki,Finance,Akuntan,IPS,19,3,29761753,Ya,2,2,3,3,4,1,Tidak
+EMP00198,28,Laki-laki,Operations,Supervisor,IPA,19,10,13188595,Ya,4,3,4,0,6,4,Ya
+EMP00199,38,Perempuan,Finance,Budget Controller,IPA,13,0,31624968,,3,1,2,5,0,3,Ya
+EMP00200,43,Laki-laki,Sales,Account Executive,,7,2,44965259,Ya,1,2,1,3,4,3,Tidak
+EMP00201,56,Laki-laki,IT,DevOps,IPS,13,3,16692499,Ya,4,1,3,1,6,3,Tidak
+EMP00202,42,Laki-laki,Sales,Sales Manager,IPA,12,6,20150087,,3,4,2,3,1,3,Ya
+EMP00203,50,Laki-laki,Sales,Sales Manager,IPA,18,3,28150944,Ya,4,3,2,8,2,4,Tidak
+EMP00204,49,Perempuan,IT,DevOps,Bisnis,10,7,61465598,Ya,1,1,,9,3,3,Tidak
+EMP00205,30,Laki-laki,HR,Recruiter,Sains,16,11,8102000,Tidak,4,3,4,8,6,2,Tidak
+EMP00206,36,Laki-laki,HR,HR Specialist,IPS,16,9,46988319,Ya,3,4,4,5,1,1,Tidak
+EMP00207,21,Laki-laki,Operations,Manajer Logistik,,14,9,27644899,Ya,4,3,4,1,0,3,Tidak
+EMP00208,56,Laki-laki,Finance,Financial Analyst,Bisnis,11,4,10929808,Ya,1,2,3,1,6,3,Ya
+EMP00209,42,Laki-laki,Sales,Account Executive,IPA,10,4,5834686,Ya,2,3,3,4,4,4,Tidak
+EMP00210,42,,IT,Software Engineer,IPS,,5,,Tidak,4,3,3,9,0,3,Tidak
+EMP00211,28,Perempuan,Sales,Account Executive,IPA,12,1,9164266,Tidak,2,4,4,4,6,1,Tidak
+EMP00212,55,Laki-laki,Finance,Financial Analyst,Bisnis,9,1,7200715,Ya,2,4,3,2,,1,Ya
+EMP00213,58,Laki-laki,Finance,Budget Controller,IPA,10,3,30800591,Ya,3,3,2,6,2,1,Tidak
+EMP00214,53,Perempuan,Sales,Sales Representative,Bisnis,15,7,49123069,Ya,3,4,4,6,6,3,Tidak
+EMP00215,38,,Finance,Financial Analyst,IPS,18,9,46206947,Tidak,4,2,,0,6,4,Tidak
+EMP00216,44,Perempuan,Operations,Supervisor,Kedokteran,0,0,21815865,Ya,2,3,2,4,5,3,Tidak
+EMP00217,56,Laki-laki,Finance,Financial Analyst,IPA,17,,58174433,Tidak,2,3,4,2,1,4,Tidak
+EMP00218,40,Perempuan,Finance,Budget Controller,Kedokteran,8,4,12370963,Tidak,3,4,3,7,1,4,Tidak
+EMP00219,56,Perempuan,HR,Training Specialist,Teknik,7,5,15878270,Tidak,3,2,2,,2,,Tidak
+EMP00220,53,Laki-laki,Sales,Account Executive,Teknik,15,5,32279838,Tidak,,2,1,0,5,2,Tidak
+EMP00221,,Perempuan,Finance,Financial Analyst,Bisnis,11,10,56492419,Tidak,1,2,3,3,4,2,Ya
+EMP00222,29,Perempuan,Operations,Staff Operasional,Teknik,19,2,27130441,Ya,1,1,2,3,6,4,Ya
+EMP00223,58,Perempuan,Finance,Budget Controller,Kedokteran,0,0,52178975,Tidak,4,2,1,5,,3,Ya
+EMP00224,38,Perempuan,Operations,Staff Operasional,Bisnis,17,7,54850024,Tidak,4,4,2,1,6,2,Tidak
+EMP00225,36,Laki-laki,Sales,Sales Representative,IPA,8,7,28706170,Tidak,1,4,4,8,2,4,Tidak
+EMP00226,45,Laki-laki,Finance,Financial Analyst,IPS,4,2,16029297,Ya,2,4,4,3,5,2,Tidak
+EMP00227,30,Perempuan,HR,Recruiter,Bisnis,20,1,35629315,Tidak,3,,2,4,,3,Tidak
+EMP00228,57,Laki-laki,Operations,Supervisor,Kedokteran,3,3,5226279,Tidak,4,1,1,5,6,4,Tidak
+EMP00229,24,Laki-laki,Sales,Sales Representative,IPA,16,,18171165,Tidak,4,2,2,8,2,4,Tidak
+EMP00230,36,Laki-laki,Sales,Sales Representative,Sains,14,1,33397332,Tidak,1,4,4,9,6,3,Tidak
+EMP00231,31,Laki-laki,Operations,Manajer Logistik,,1,1,4679135,Tidak,2,3,1,4,3,3,Tidak
+EMP00232,26,Laki-laki,Finance,Budget Controller,Teknik,7,4,40880308,Tidak,1,2,4,6,2,3,Tidak
+EMP00233,25,Perempuan,Finance,Financial Analyst,Sains,17,11,52210166,Ya,2,1,4,6,4,1,Ya
+EMP00234,48,Laki-laki,IT,Data Engineer,IPA,0,0,14244501,Tidak,3,4,,3,4,3,Tidak
+EMP00235,24,Perempuan,IT,QA Engineer,IPA,18,0,18834161,Tidak,4,1,1,2,1,3,Tidak
+EMP00236,34,Laki-laki,Sales,Account Executive,Sains,10,9,57148539,Ya,1,1,2,0,2,2,Tidak
+EMP00237,30,Laki-laki,Operations,Supervisor,Sains,20,4,7565006,Ya,4,4,4,9,2,3,Tidak
+EMP00238,,Laki-laki,Finance,Budget Controller,Teknik,5,5,56246707,Ya,2,4,,7,4,1,Ya
+EMP00239,58,Perempuan,Finance,,IPS,7,7,63292636,Tidak,2,2,2,2,0,4,Tidak
+EMP00240,34,Laki-laki,Finance,Financial Analyst,Sains,20,4,7010365,Tidak,4,1,2,9,5,4,Ya
+EMP00241,49,Laki-laki,Finance,Budget Controller,IPS,2,2,13935675,Tidak,1,1,1,6,4,2,Ya
+EMP00242,33,Laki-laki,Sales,Sales Representative,Kedokteran,9,9,38744073,Tidak,2,4,,6,4,3,Tidak
+EMP00243,31,Perempuan,Finance,Financial Analyst,Bisnis,5,5,25940091,Ya,4,1,3,7,2,2,Ya
+EMP00244,36,Perempuan,HR,HR Specialist,Sains,16,,18469410,Tidak,,4,1,2,6,4,Tidak
+EMP00245,29,Perempuan,Sales,Account Executive,IPA,8,8,55083091,Ya,1,4,2,2,1,4,Tidak
+EMP00246,56,Laki-laki,IT,Software Engineer,Kedokteran,12,5,46792513,Ya,2,1,3,4,4,4,Ya
+EMP00247,25,Perempuan,Operations,Staff Operasional,IPA,6,6,63634238,Ya,3,2,2,3,3,1,Tidak
+EMP00248,28,Laki-laki,Finance,Akuntan,Teknik,4,2,18425608,Tidak,4,3,3,0,0,1,Tidak
+EMP00249,29,Laki-laki,IT,QA Engineer,Sains,12,9,23907222,Tidak,4,2,3,2,4,2,Tidak
+EMP00250,22,Perempuan,IT,Software Engineer,Teknik,13,0,25116856,Ya,4,3,,1,4,4,Ya
+EMP00251,56,Perempuan,HR,HR Specialist,IPA,6,1,60191247,Tidak,1,3,4,1,2,2,Tidak
+EMP00252,48,Laki-laki,Operations,Supervisor,Kedokteran,14,12,63288207,Tidak,1,3,4,9,1,3,Tidak
+EMP00253,23,Perempuan,HR,Training Specialist,IPS,9,9,7756542,Ya,2,2,1,5,3,3,Tidak
+EMP00254,,Laki-laki,Operations,Manajer Logistik,Kedokteran,3,3,44446276,Tidak,3,,2,3,1,4,Tidak
+EMP00255,56,Laki-laki,Sales,Sales Manager,Teknik,0,0,55077963,Tidak,2,4,1,5,6,1,Tidak
+EMP00256,33,Laki-laki,IT,DevOps,Sains,13,2,27826882,Ya,1,1,1,8,3,4,Tidak
+EMP00257,33,Laki-laki,Sales,Account Executive,Sains,10,0,22598312,Ya,1,2,1,9,1,1,Ya
+EMP00258,27,Perempuan,IT,Data Engineer,Sains,18,,,Tidak,2,1,4,3,3,2,Tidak
+EMP00259,54,Perempuan,Sales,Account Executive,Bisnis,19,2,58480222,Ya,3,2,1,4,3,3,Tidak
+EMP00260,26,Perempuan,IT,DevOps,IPS,16,9,21991526,Tidak,1,1,2,5,,4,Ya
+EMP00261,32,Perempuan,HR,Training Specialist,Sains,8,2,7790397,Tidak,2,3,3,6,5,4,Tidak
+EMP00262,26,Perempuan,Finance,Financial Analyst,Sains,18,3,50766749,Ya,3,2,2,4,6,2,Ya
+EMP00263,37,Laki-laki,Operations,Supervisor,Sains,11,4,19239260,Tidak,4,1,2,0,6,3,Tidak
+EMP00264,37,Perempuan,Sales,Account Executive,Sains,4,4,31401467,Tidak,1,4,4,9,1,3,Tidak
+EMP00265,28,Laki-laki,Sales,Sales Manager,IPA,7,7,57210012,Tidak,2,3,3,5,,4,Tidak
+EMP00266,21,Perempuan,Sales,Sales Representative,Teknik,1,1,64077083,Ya,2,2,1,6,4,4,Tidak
+EMP00267,55,Perempuan,Sales,Sales Representative,Bisnis,10,0,45346250,,3,3,2,7,2,2,Tidak
+EMP00268,41,Perempuan,Finance,Akuntan,Teknik,14,10,33087215,Tidak,1,2,1,1,4,2,Ya
+EMP00269,21,Laki-laki,Finance,Financial Analyst,Bisnis,15,10,52878517,Ya,3,3,1,2,2,4,Tidak
+EMP00270,57,Laki-laki,Operations,Supervisor,Bisnis,11,10,62802627,Tidak,4,4,,8,5,4,Tidak
+EMP00271,47,Perempuan,,Sales Manager,Teknik,19,9,54573762,Tidak,2,2,1,7,,1,Tidak
+EMP00272,32,Perempuan,Sales,Sales Representative,Teknik,3,3,22619695,Tidak,4,2,2,3,6,,Tidak
+EMP00273,50,Perempuan,,Data Engineer,Teknik,13,4,14616781,Ya,1,2,3,0,6,2,Tidak
+EMP00274,52,Laki-laki,Finance,Akuntan,Sains,18,9,48381403,Tidak,2,3,,0,3,2,Tidak
+EMP00275,36,Perempuan,Finance,Budget Controller,IPA,14,11,51063877,Ya,1,3,4,3,2,4,Ya
+EMP00276,37,Laki-laki,Operations,Staff Operasional,Bisnis,0,0,27786411,Tidak,1,1,3,0,2,4,Tidak
+EMP00277,27,Laki-laki,,Recruiter,Bisnis,2,2,60712382,Ya,4,3,1,0,6,1,Tidak
+EMP00278,22,,Operations,Manajer Logistik,Teknik,1,1,62528234,Tidak,3,2,1,6,3,3,Tidak
+EMP00279,52,Perempuan,Finance,Budget Controller,Sains,14,4,40149248,Ya,3,2,2,4,5,1,Tidak
+EMP00280,56,Perempuan,HR,Recruiter,IPS,3,3,10232895,Tidak,4,3,1,8,3,3,Tidak
+EMP00281,30,Perempuan,Operations,Staff Operasional,Teknik,0,,29511039,Ya,4,1,4,9,0,1,Tidak
+EMP00282,46,Perempuan,Sales,Sales Manager,IPA,2,2,60841852,Ya,3,1,2,5,2,1,Tidak
+EMP00283,48,Laki-laki,Operations,Manajer Logistik,Kedokteran,17,2,16823364,Tidak,1,3,2,4,3,4,Tidak
+EMP00284,57,Laki-laki,Operations,Staff Operasional,Kedokteran,6,1,48346786,Tidak,3,4,,3,4,1,Tidak
+EMP00285,53,Laki-laki,IT,Data Engineer,IPS,2,2,63406070,Ya,1,2,1,5,0,3,Ya
+EMP00286,40,Perempuan,IT,Software Engineer,IPA,12,6,60229088,Tidak,2,2,4,9,3,2,Tidak
+EMP00287,58,Perempuan,HR,Training Specialist,Sains,,9,46669795,Ya,4,2,2,4,,3,Ya
+EMP00288,27,Perempuan,Operations,Supervisor,Kedokteran,17,0,12082899,Tidak,4,3,1,8,0,2,Tidak
+EMP00289,42,Laki-laki,Finance,Budget Controller,Kedokteran,10,5,17519971,Tidak,4,1,4,8,6,1,Tidak
+EMP00290,41,Perempuan,Sales,Account Executive,Sains,16,9,58972812,Tidak,3,2,3,7,0,4,Tidak
+EMP00291,31,Perempuan,Finance,,Bisnis,18,0,39056541,Tidak,1,2,4,5,6,1,Tidak
+EMP00292,23,Laki-laki,HR,Recruiter,Bisnis,14,1,11344724,Ya,2,2,2,9,0,1,Ya
+EMP00293,31,Perempuan,Operations,Staff Operasional,Kedokteran,5,5,22418718,Ya,2,2,3,2,1,2,Ya
+EMP00294,49,Perempuan,HR,HR Specialist,Kedokteran,11,10,33278579,Tidak,2,4,3,6,3,2,Tidak
+EMP00295,29,Laki-laki,Sales,,Teknik,11,11,41192906,Tidak,3,4,2,,3,3,Tidak
+EMP00296,40,Perempuan,Operations,Manajer Logistik,Kedokteran,7,7,22654973,Ya,1,3,3,7,0,2,Tidak
+EMP00297,45,Laki-laki,Finance,Budget Controller,Kedokteran,5,0,17191851,Ya,1,3,3,8,3,2,Ya
+EMP00298,42,Perempuan,Sales,Sales Representative,IPA,2,2,55741780,Tidak,1,1,1,8,5,3,Tidak
+EMP00299,24,Laki-laki,Sales,Account Executive,Bisnis,5,5,52401288,Ya,4,4,4,8,2,4,Tidak
+EMP00300,56,Laki-laki,HR,HR Specialist,IPS,17,8,48948114,Ya,3,1,1,3,6,3,Ya
+EMP00301,51,Laki-laki,Operations,Supervisor,Teknik,9,6,40976810,Ya,4,2,1,2,4,2,Tidak
+EMP00302,49,Perempuan,Operations,Supervisor,IPS,16,6,53239872,Tidak,4,2,3,0,3,4,Tidak
+EMP00303,57,Perempuan,IT,DevOps,Sains,14,4,36979254,Ya,2,3,3,4,1,1,Ya
+EMP00304,22,Laki-laki,Sales,Sales Manager,Bisnis,18,5,16788501,Tidak,1,2,1,7,1,4,Ya
+EMP00305,56,Perempuan,HR,Training Specialist,IPA,,1,60035403,Ya,3,4,4,6,3,1,Tidak
+EMP00306,43,Laki-laki,Finance,Financial Analyst,Kedokteran,4,4,21049592,Ya,2,3,1,7,5,4,Tidak
+EMP00307,57,Perempuan,Finance,Financial Analyst,,14,5,39649946,Tidak,2,2,3,4,6,4,Tidak
+EMP00308,40,,IT,QA Engineer,IPS,17,12,10857055,Ya,1,4,3,2,3,2,Tidak
+EMP00309,43,Perempuan,Finance,Budget Controller,Bisnis,9,2,48467272,Ya,1,3,3,5,5,3,Tidak
+EMP00310,52,Laki-laki,Sales,Sales Manager,IPA,7,4,60695042,Ya,2,4,2,0,3,3,Tidak
+EMP00311,25,Perempuan,HR,Training Specialist,IPS,18,3,62674226,Ya,2,4,2,4,3,3,Ya
+EMP00312,57,Laki-laki,HR,HR Specialist,Teknik,1,1,42804996,Ya,4,4,2,4,,2,Ya
+EMP00313,45,Perempuan,Finance,Akuntan,Teknik,0,0,7001864,Tidak,3,3,3,8,6,3,Ya
+EMP00314,32,Perempuan,HR,Training Specialist,IPA,4,2,8511289,Ya,4,1,4,2,4,1,Tidak
+EMP00315,40,Perempuan,Finance,Budget Controller,Teknik,10,7,13887748,Ya,3,2,3,9,5,3,Tidak
+EMP00316,29,Perempuan,Sales,Sales Representative,Bisnis,14,9,18389357,Tidak,1,1,4,4,6,1,Tidak
+EMP00317,42,Laki-laki,Finance,Budget Controller,Kedokteran,12,10,15304294,Ya,1,1,4,0,5,4,Ya
+EMP00318,37,Laki-laki,Finance,Budget Controller,Sains,18,4,27076592,Tidak,3,1,1,6,,4,Tidak
+EMP00319,46,Laki-laki,Operations,Manajer Logistik,IPS,14,6,10292722,Tidak,3,3,4,9,6,4,Tidak
+EMP00320,58,Laki-laki,Finance,Budget Controller,IPA,18,0,24101912,Tidak,4,3,1,1,4,3,Tidak
+EMP00321,34,Laki-laki,Sales,Sales Manager,Teknik,14,12,11260361,Ya,2,2,3,8,6,4,Tidak
+EMP00322,55,Laki-laki,Operations,Manajer Logistik,Sains,18,11,7797209,Ya,4,2,3,9,0,2,Tidak
+EMP00323,25,Laki-laki,Sales,Sales Representative,Sains,4,3,49681818,Ya,1,2,4,4,1,1,Tidak
+EMP00324,30,Laki-laki,HR,HR Specialist,Teknik,17,3,33642486,Tidak,4,1,2,6,0,4,Tidak
+EMP00325,44,Perempuan,HR,HR Specialist,Teknik,15,6,9329374,Ya,4,4,2,3,3,2,Tidak
+EMP00326,35,Laki-laki,IT,Data Engineer,Bisnis,1,1,22931358,Tidak,4,3,1,7,2,4,Tidak
+EMP00327,33,Laki-laki,Sales,Sales Representative,Bisnis,2,2,8584451,Tidak,4,1,3,9,0,4,Tidak
+EMP00328,26,Laki-laki,Operations,Supervisor,Sains,11,4,59022980,Tidak,3,1,,8,4,1,Ya
+EMP00329,39,Laki-laki,,Financial Analyst,IPA,0,0,43431806,Ya,2,3,4,1,0,3,Tidak
+EMP00330,53,Laki-laki,Sales,Sales Manager,IPA,1,1,20196782,Tidak,3,2,2,2,5,4,Tidak
+EMP00331,50,Perempuan,IT,Data Analyst,Kedokteran,19,10,,Ya,4,2,1,6,1,1,Ya
+EMP00332,31,Laki-laki,Sales,Sales Manager,IPA,9,0,49065762,,4,1,1,3,0,3,Tidak
+EMP00333,37,Laki-laki,HR,Recruiter,IPA,4,4,59141664,Tidak,2,,2,7,6,4,Tidak
+EMP00334,51,Perempuan,Finance,Financial Analyst,Teknik,2,2,15879551,Ya,3,1,1,7,3,3,Ya
+EMP00335,24,Laki-laki,HR,HR Specialist,Bisnis,16,1,42041279,Ya,1,4,,2,4,1,Tidak
+EMP00336,54,Perempuan,Sales,Sales Representative,Teknik,3,,48364251,,4,1,1,5,4,3,Tidak
+EMP00337,,Laki-laki,Sales,Account Executive,Bisnis,6,6,16544103,Ya,1,4,2,8,1,2,Tidak
+EMP00338,52,Perempuan,HR,Training Specialist,IPA,9,9,48992821,Ya,1,4,4,3,1,2,Ya
+EMP00339,47,Laki-laki,Sales,Sales Manager,Sains,12,1,27576077,Ya,1,4,2,4,6,2,Tidak
+EMP00340,55,Laki-laki,HR,HR Specialist,Kedokteran,4,0,35451406,Tidak,3,3,1,3,0,2,Tidak
+EMP00341,52,Perempuan,IT,Software Engineer,Kedokteran,10,3,57469397,Ya,1,2,,6,1,3,Tidak
+EMP00342,33,Perempuan,IT,QA Engineer,Sains,8,8,49214810,Tidak,1,1,1,2,1,1,Tidak
+EMP00343,56,Perempuan,IT,Data Engineer,Sains,15,3,7201097,Tidak,1,2,2,6,4,4,Tidak
+EMP00344,30,Perempuan,Finance,Financial Analyst,Kedokteran,12,9,,Tidak,3,2,3,0,1,4,Tidak
+EMP00345,21,Laki-laki,HR,,Bisnis,9,,13769287,Tidak,1,2,2,4,2,1,Ya
+EMP00346,35,,IT,DevOps,Bisnis,19,2,60998999,Tidak,1,1,3,6,2,3,Tidak
+EMP00347,50,Laki-laki,Operations,Manajer Logistik,IPS,16,5,23872658,Tidak,3,4,2,2,1,4,Tidak
+EMP00348,47,Laki-laki,IT,QA Engineer,Sains,17,2,31655802,Tidak,2,2,3,4,1,2,Tidak
+EMP00349,30,Perempuan,Operations,Manajer Logistik,IPS,13,6,20458779,Tidak,1,1,1,0,0,1,Ya
+EMP00350,50,Perempuan,Operations,Manajer Logistik,Bisnis,2,2,9499508,Tidak,2,1,3,3,4,1,Ya
+EMP00351,23,Laki-laki,Sales,Sales Representative,IPS,15,9,56431906,Ya,1,4,1,2,,2,Ya
+EMP00352,58,Laki-laki,Operations,Manajer Logistik,IPA,12,10,57240084,Ya,3,4,,9,2,,Tidak
+EMP00353,37,Laki-laki,Sales,Account Executive,IPS,3,3,51983853,Tidak,1,4,1,1,3,3,Tidak
+EMP00354,50,Laki-laki,Operations,Manajer Logistik,Sains,4,2,61619910,Tidak,4,2,3,8,3,4,Tidak
+EMP00355,29,Laki-laki,HR,Training Specialist,Kedokteran,8,6,35468182,Tidak,2,4,4,8,0,1,Tidak
+EMP00356,32,Perempuan,IT,QA Engineer,Kedokteran,7,6,63392927,Tidak,4,2,1,3,4,4,Tidak
+EMP00357,56,Perempuan,Operations,Staff Operasional,Teknik,16,6,53931297,Tidak,2,4,,5,4,3,Tidak
+EMP00358,35,Laki-laki,Finance,Budget Controller,Teknik,4,4,64591894,Ya,3,4,3,5,5,3,Tidak
+EMP00359,56,Perempuan,Sales,Sales Representative,Teknik,7,7,54259659,Ya,3,3,2,7,6,1,Tidak
+EMP00360,25,Perempuan,IT,Software Engineer,Sains,7,3,,Tidak,4,3,1,5,1,1,Tidak
+EMP00361,56,Perempuan,Finance,Akuntan,IPA,8,7,50535497,Ya,4,4,2,9,1,4,Tidak
+EMP00362,56,Perempuan,Operations,Manajer Logistik,IPS,2,2,12363613,Tidak,3,1,1,2,3,3,Tidak
+EMP00363,32,Perempuan,Sales,Sales Representative,Kedokteran,9,3,12710912,Tidak,1,4,1,4,6,2,Tidak
+EMP00364,58,Perempuan,Sales,Sales Manager,IPS,7,1,46520978,Tidak,3,1,1,6,6,1,Ya
+EMP00365,28,Perempuan,Sales,Account Executive,IPA,9,3,38346771,Ya,4,2,3,8,0,4,Tidak
+EMP00366,23,Perempuan,IT,Data Analyst,Kedokteran,1,1,13703440,Ya,3,2,3,1,4,4,Tidak
+EMP00367,25,Laki-laki,Sales,Sales Representative,Kedokteran,15,,48242016,Tidak,4,1,,0,5,2,Tidak
+EMP00368,21,Perempuan,Sales,Account Executive,Kedokteran,9,6,51373693,Ya,3,2,1,,1,1,Tidak
+EMP00369,,Laki-laki,HR,HR Specialist,Teknik,9,6,26111838,Tidak,,1,2,8,4,4,Tidak
+EMP00370,35,Perempuan,Operations,Manajer Logistik,IPS,3,3,15417813,Tidak,4,4,1,5,5,4,Tidak
+EMP00371,35,Laki-laki,Finance,Financial Analyst,Sains,11,11,8221022,Tidak,2,2,4,4,1,4,Tidak
+EMP00372,35,Perempuan,HR,Recruiter,Sains,18,10,17185619,Tidak,3,3,2,0,6,3,Tidak
+EMP00373,51,Perempuan,Sales,Account Executive,Kedokteran,17,2,42033125,Ya,1,2,4,8,4,4,Ya
+EMP00374,50,Perempuan,Finance,Akuntan,Teknik,,9,42310767,Tidak,4,2,1,1,0,3,Tidak
+EMP00375,57,Laki-laki,Sales,Account Executive,Bisnis,6,6,57691453,Tidak,3,1,3,4,5,4,Tidak
+EMP00376,24,Laki-laki,HR,Recruiter,Bisnis,17,6,5029105,Ya,3,1,2,2,5,4,Tidak
+EMP00377,25,Perempuan,Finance,Financial Analyst,IPA,0,0,50060549,Ya,1,2,4,8,5,2,Ya
+EMP00378,33,Laki-laki,Finance,Budget Controller,Kedokteran,10,6,32929618,Ya,3,4,3,0,2,2,Tidak
+EMP00379,22,Perempuan,Sales,Sales Representative,IPS,0,0,13889373,Tidak,4,,4,5,,2,Ya
+EMP00380,40,Laki-laki,Finance,Akuntan,Teknik,18,11,42747184,Tidak,4,3,3,3,6,4,Tidak
+EMP00381,40,Perempuan,Finance,Akuntan,Bisnis,18,3,6239605,Tidak,2,4,4,5,2,4,Tidak
+EMP00382,27,Laki-laki,HR,HR Specialist,Bisnis,19,9,51444857,Tidak,1,1,1,6,6,4,Tidak
+EMP00383,39,Perempuan,Operations,Manajer Logistik,,17,8,49493056,Tidak,1,4,3,6,5,1,Ya
+EMP00384,53,Perempuan,HR,Recruiter,IPS,3,,45318495,Tidak,4,2,1,7,4,2,Tidak
+EMP00385,40,Perempuan,Operations,Staff Operasional,Kedokteran,10,7,57824277,Tidak,4,1,3,4,0,1,Tidak
+EMP00386,34,Laki-laki,Sales,Sales Manager,Bisnis,15,8,29970818,Ya,4,2,2,7,2,3,Ya
+EMP00387,33,Laki-laki,,Sales Representative,Kedokteran,6,6,12491427,Tidak,3,1,1,1,0,1,Tidak
+EMP00388,53,Laki-laki,Sales,Sales Representative,,3,,12309448,Ya,4,3,2,2,6,4,Tidak
+EMP00389,22,,Operations,Staff Operasional,IPA,16,12,33006990,Tidak,3,4,4,7,4,1,Tidak
+EMP00390,42,Perempuan,Operations,Staff Operasional,Kedokteran,8,4,9526064,Tidak,2,3,3,3,3,1,Tidak
+EMP00391,37,Laki-laki,Finance,Financial Analyst,Teknik,12,7,20356937,Tidak,3,3,2,3,5,3,Tidak
+EMP00392,47,Perempuan,IT,QA Engineer,,19,9,48107285,Ya,3,2,3,6,1,3,Ya
+EMP00393,27,Perempuan,,Budget Controller,Teknik,11,,28253495,Ya,2,4,4,3,0,3,Tidak
+EMP00394,49,Laki-laki,Finance,Akuntan,Teknik,4,4,43679109,Tidak,2,2,,6,3,1,Tidak
+EMP00395,26,Laki-laki,HR,Training Specialist,Kedokteran,11,8,49006860,Ya,1,4,4,7,4,2,Ya
+EMP00396,25,Perempuan,Operations,Supervisor,Kedokteran,14,3,16303912,Ya,4,4,2,2,2,1,Ya
+EMP00397,38,Laki-laki,Finance,Akuntan,Teknik,2,2,51129816,Tidak,,4,1,6,,4,Tidak
+EMP00398,51,Laki-laki,Operations,Staff Operasional,Kedokteran,0,0,47099452,Tidak,4,3,3,1,4,3,Tidak
+EMP00399,34,Perempuan,HR,Training Specialist,Bisnis,10,10,60010913,Ya,3,2,1,3,3,4,Tidak
+EMP00400,39,Laki-laki,Operations,Staff Operasional,Sains,17,8,15082041,Ya,3,1,1,9,0,,Ya
+EMP00401,35,Laki-laki,IT,QA Engineer,Sains,20,6,13169948,Tidak,4,2,1,0,1,3,Tidak
+EMP00402,43,Perempuan,Finance,Budget Controller,IPA,7,7,25428847,Tidak,4,3,2,8,5,4,Tidak
+EMP00403,30,Perempuan,Sales,Sales Representative,Sains,13,10,45413813,Ya,1,3,1,0,0,1,Tidak
+EMP00404,53,Perempuan,HR,Recruiter,Sains,13,0,63100261,Tidak,3,3,3,7,3,3,Tidak
+EMP00405,38,Perempuan,IT,DevOps,,5,4,46755405,Tidak,1,2,1,5,6,4,Tidak
+EMP00406,32,Perempuan,Operations,Supervisor,Teknik,12,4,34861540,Ya,1,4,2,3,5,1,Ya
+EMP00407,35,Laki-laki,IT,QA Engineer,Bisnis,20,1,9336320,Ya,4,1,4,2,2,4,Tidak
+EMP00408,53,Perempuan,,QA Engineer,IPA,20,6,23004794,Tidak,4,1,3,6,3,3,Tidak
+EMP00409,33,Perempuan,Operations,Supervisor,IPS,15,11,62694270,Tidak,3,2,3,3,2,4,Tidak
+EMP00410,48,Perempuan,Finance,Budget Controller,Kedokteran,3,3,57571643,Ya,2,1,4,9,1,3,Tidak
+EMP00411,23,Laki-laki,Sales,Account Executive,IPS,18,2,16279721,Ya,4,2,3,1,5,2,Tidak
+EMP00412,,Laki-laki,HR,Recruiter,Teknik,11,5,23288067,Tidak,2,4,4,3,6,4,Tidak
+EMP00413,41,Laki-laki,Finance,Akuntan,IPA,5,5,,Tidak,3,2,3,3,2,1,Tidak
+EMP00414,23,Perempuan,Operations,Manajer Logistik,IPS,3,3,22755495,Ya,2,3,2,1,3,4,Ya
+EMP00415,30,Perempuan,Finance,Financial Analyst,Kedokteran,16,0,12689755,Ya,4,2,1,9,2,1,Tidak
+EMP00416,49,Perempuan,Finance,Financial Analyst,IPA,2,2,61801817,Ya,3,3,4,1,4,4,Tidak
+EMP00417,35,Perempuan,Sales,Account Executive,Bisnis,19,11,59664174,Tidak,3,3,4,1,0,2,Tidak
+EMP00418,30,Laki-laki,IT,Data Analyst,Teknik,8,8,50388314,Tidak,3,3,2,4,0,3,Tidak
+EMP00419,39,Perempuan,Sales,Account Executive,Kedokteran,6,6,37120305,Ya,3,1,1,0,5,4,Tidak
+EMP00420,35,Laki-laki,IT,Data Analyst,Teknik,5,5,63399337,Tidak,,2,4,3,2,1,Tidak
+EMP00421,48,Perempuan,IT,Data Analyst,Sains,10,5,5551608,Tidak,3,1,3,0,,3,Ya
+EMP00422,47,Perempuan,Sales,Sales Representative,IPA,9,7,32044999,Ya,1,3,3,5,5,3,Tidak
+EMP00423,24,Perempuan,Sales,Account Executive,IPA,19,9,28215328,Ya,4,2,1,0,,4,Tidak
+EMP00424,47,Laki-laki,IT,Software Engineer,IPA,16,3,38883798,Ya,3,1,3,7,6,4,Tidak
+EMP00425,33,Laki-laki,IT,,IPA,20,12,12598012,Tidak,1,3,2,7,0,2,Ya
+EMP00426,22,Perempuan,IT,DevOps,IPA,0,0,45827491,Ya,1,3,2,5,1,1,Ya
+EMP00427,42,Perempuan,HR,HR Specialist,Sains,5,5,29732930,Ya,4,,3,6,4,4,Tidak
+EMP00428,24,Laki-laki,Operations,Staff Operasional,Kedokteran,3,3,61215466,Ya,3,1,4,7,5,1,Tidak
+EMP00429,38,Laki-laki,HR,Recruiter,,15,8,23950832,Tidak,3,4,1,1,1,4,Tidak
+EMP00430,,Perempuan,Finance,Financial Analyst,Teknik,7,2,24826615,Tidak,4,1,2,5,3,2,Tidak
+EMP00431,26,Laki-laki,HR,HR Specialist,Bisnis,19,3,55456804,Tidak,1,1,4,1,4,3,Tidak
+EMP00432,51,Perempuan,IT,Software Engineer,IPS,16,8,7942815,Ya,4,,,7,0,1,Ya
+EMP00433,34,Perempuan,Finance,Akuntan,Kedokteran,17,9,50785829,Tidak,4,4,3,,3,3,Tidak
+EMP00434,34,Laki-laki,Finance,Akuntan,Sains,12,9,11145998,Ya,3,1,4,8,6,3,Tidak
+EMP00435,43,Perempuan,Operations,Manajer Logistik,Teknik,1,1,48246416,Ya,1,2,4,5,6,3,Tidak
+EMP00436,26,Laki-laki,IT,Data Engineer,Bisnis,9,9,27798247,Ya,4,3,1,0,1,3,Ya
+EMP00437,41,Perempuan,HR,Recruiter,Bisnis,17,7,32267536,Tidak,3,4,3,4,5,3,Tidak
+EMP00438,36,Laki-laki,,QA Engineer,Teknik,20,4,32590431,Tidak,1,4,2,5,0,1,Tidak
+EMP00439,46,Perempuan,Sales,Sales Manager,IPS,14,6,60289185,Tidak,2,2,4,2,3,1,Tidak
+EMP00440,27,Perempuan,Sales,Sales Manager,,19,5,61060058,Tidak,4,4,4,9,6,2,Tidak
+EMP00441,27,Laki-laki,Finance,Financial Analyst,Kedokteran,19,1,24996659,Ya,1,3,2,2,5,2,Ya
+EMP00442,58,Laki-laki,HR,Recruiter,IPA,1,1,41833515,Ya,1,1,1,9,0,2,Ya
+EMP00443,25,Laki-laki,Finance,Akuntan,IPA,18,10,35384537,Ya,4,1,1,6,4,2,Tidak
+EMP00444,39,Perempuan,IT,Data Analyst,Bisnis,12,2,37763471,Tidak,1,2,1,8,3,3,Tidak
+EMP00445,45,,Operations,Supervisor,Bisnis,20,6,62543515,Tidak,4,3,3,4,3,2,Tidak
+EMP00446,23,Laki-laki,Finance,Financial Analyst,,3,3,52527226,,4,2,2,9,2,,Tidak
+EMP00447,46,Laki-laki,Finance,Akuntan,IPA,10,2,40344202,Tidak,3,2,3,4,2,1,Tidak
+EMP00448,36,Laki-laki,HR,Training Specialist,Teknik,5,,55468421,Ya,4,4,2,3,3,3,Tidak
+EMP00449,46,Perempuan,Finance,Budget Controller,Teknik,12,11,6666503,Tidak,2,,4,7,5,2,Tidak
+EMP00450,,Perempuan,Sales,Sales Representative,Teknik,11,5,9610473,Ya,4,4,3,0,5,1,Tidak
+EMP00451,26,Laki-laki,Sales,Sales Representative,Bisnis,3,3,24399447,Tidak,3,3,2,8,1,4,Tidak
+EMP00452,56,Perempuan,Sales,Account Executive,IPA,17,7,10803753,Tidak,4,3,1,6,6,2,Tidak
+EMP00453,53,Laki-laki,IT,Software Engineer,Bisnis,4,3,26540824,Ya,3,,3,2,2,3,Ya
+EMP00454,54,Perempuan,HR,Recruiter,Bisnis,8,4,38755508,Ya,4,3,1,1,5,3,Tidak
+EMP00455,48,Laki-laki,HR,HR Specialist,Bisnis,16,9,,Ya,3,3,1,8,3,4,Tidak
+EMP00456,47,Laki-laki,Operations,Supervisor,Kedokteran,5,5,37538342,Ya,4,4,4,7,3,1,Ya
+EMP00457,32,Perempuan,Finance,Financial Analyst,Teknik,0,0,41786367,Tidak,3,2,2,6,2,2,Tidak
+EMP00458,28,Laki-laki,Sales,Account Executive,Teknik,1,0,11201642,Tidak,2,4,2,2,4,1,Ya
+EMP00459,56,Perempuan,Finance,Akuntan,IPS,10,10,63106358,Tidak,3,2,1,3,2,3,Tidak
+EMP00460,24,Perempuan,Finance,Budget Controller,Bisnis,1,1,32331653,Ya,1,1,4,6,2,2,Ya
+EMP00461,30,Perempuan,Sales,Sales Representative,Teknik,15,10,31438929,Tidak,3,1,1,1,5,2,Tidak
+EMP00462,45,Perempuan,Operations,Supervisor,Kedokteran,9,0,35736943,Tidak,2,3,4,9,0,4,Tidak
+EMP00463,47,Laki-laki,Operations,Manajer Logistik,Kedokteran,12,11,27336747,Tidak,1,2,1,7,0,4,Ya
+EMP00464,31,Laki-laki,Operations,Staff Operasional,Teknik,13,3,14014031,Tidak,3,2,2,1,4,1,Ya
+EMP00465,43,Perempuan,Finance,Budget Controller,Bisnis,11,1,27648516,,3,4,4,5,6,2,Tidak
+EMP00466,27,Perempuan,HR,Training Specialist,IPS,7,7,60014608,Ya,3,2,,2,5,3,Tidak
+EMP00467,29,Laki-laki,Sales,Sales Manager,IPA,14,3,61118560,Tidak,1,1,2,5,,1,Tidak
+EMP00468,40,Perempuan,HR,Training Specialist,Teknik,18,12,28107237,Tidak,2,1,2,7,3,3,Tidak
+EMP00469,53,Laki-laki,IT,Data Analyst,Teknik,16,,54582056,Tidak,4,2,3,8,6,1,Tidak
+EMP00470,37,Perempuan,Operations,Supervisor,IPS,8,8,50345537,Tidak,4,1,1,7,3,2,Ya
+EMP00471,55,Perempuan,Operations,Staff Operasional,Sains,9,8,25141968,Ya,4,3,1,9,5,3,Ya
+EMP00472,42,Laki-laki,HR,Recruiter,Kedokteran,0,0,52963877,Ya,2,4,4,5,4,4,Tidak
+EMP00473,36,Perempuan,Operations,Manajer Logistik,IPA,9,3,64470525,Tidak,3,,3,4,6,3,Tidak
+EMP00474,35,Laki-laki,HR,HR Specialist,Teknik,15,8,5732853,Tidak,4,1,4,2,2,3,Tidak
+EMP00475,24,Perempuan,IT,QA Engineer,Sains,6,6,32600487,Ya,3,4,1,0,2,4,Tidak
+EMP00476,48,Laki-laki,IT,Data Engineer,Teknik,12,6,64082285,Ya,1,,4,6,4,3,Ya
+EMP00477,28,Perempuan,Operations,Manajer Logistik,Teknik,,7,28318339,Tidak,4,2,3,5,1,1,Tidak
+EMP00478,33,Perempuan,Finance,Financial Analyst,IPA,8,2,9122255,Tidak,3,1,1,7,4,3,Ya
+EMP00479,,Laki-laki,Finance,Financial Analyst,Bisnis,2,2,6698396,Ya,4,3,2,7,1,4,Tidak
+EMP00480,50,Laki-laki,HR,Recruiter,IPS,17,0,20223641,Tidak,4,4,4,,,1,Tidak
+EMP00481,42,Perempuan,Sales,Sales Representative,Bisnis,11,,4467553,Ya,2,3,4,6,3,3,Tidak
+EMP00482,43,Laki-laki,IT,Data Analyst,IPA,9,0,11883094,Tidak,1,1,4,7,2,4,Tidak
+EMP00483,46,Perempuan,Finance,Akuntan,Bisnis,8,8,51335134,Ya,2,2,3,2,1,1,Ya
+EMP00484,22,Laki-laki,Sales,Sales Manager,IPS,6,,24465893,Ya,1,2,4,5,4,4,Ya
+EMP00485,40,Laki-laki,Operations,Manajer Logistik,Sains,13,0,16701355,Ya,3,3,2,7,,4,Tidak
+EMP00486,33,Perempuan,Finance,Budget Controller,IPA,7,7,6313967,Ya,3,3,3,8,5,1,Tidak
+EMP00487,30,Perempuan,HR,Recruiter,Kedokteran,10,1,28227146,Tidak,2,3,4,9,5,1,Ya
+EMP00488,37,Laki-laki,Operations,Staff Operasional,IPA,3,3,23674676,Ya,4,3,3,1,6,2,Ya
+EMP00489,38,Perempuan,Operations,Staff Operasional,Kedokteran,1,1,42012807,Tidak,1,3,4,0,0,1,Tidak
+EMP00490,37,Laki-laki,Operations,Manajer Logistik,Teknik,20,,42090420,Tidak,3,4,2,6,2,4,Tidak
+EMP00491,47,Perempuan,Operations,Supervisor,Sains,11,5,16646945,Ya,1,3,4,4,4,2,Tidak
+EMP00492,48,Perempuan,Finance,Financial Analyst,Kedokteran,5,5,17860177,Ya,4,4,1,1,1,2,Tidak
+EMP00493,30,Perempuan,Finance,Akuntan,Teknik,6,6,32124655,Tidak,4,4,3,8,1,4,Tidak
+EMP00494,26,Perempuan,Operations,Manajer Logistik,Teknik,7,7,22227209,Tidak,,4,3,7,2,3,Tidak
+EMP00495,45,Perempuan,Operations,Supervisor,Kedokteran,17,2,11134374,Tidak,3,4,2,6,4,3,Tidak
+EMP00496,26,Perempuan,HR,Training Specialist,Teknik,4,1,,Ya,2,2,4,2,1,2,Tidak
+EMP00497,35,Perempuan,IT,Data Analyst,IPS,19,6,48544500,Tidak,3,3,1,,3,3,Tidak
+EMP00498,46,Laki-laki,Operations,Supervisor,Sains,14,11,36104581,Tidak,3,1,,0,2,,Ya
+EMP00499,52,Laki-laki,Finance,Akuntan,IPA,2,2,56523535,,3,2,4,8,1,3,Ya
+EMP00500,45,Laki-laki,IT,Data Engineer,Bisnis,3,3,61954838,Ya,2,1,4,1,4,3,Tidak
+EMP00501,27,Perempuan,IT,Software Engineer,IPA,10,4,16483687,Ya,3,1,1,9,0,4,Ya
+EMP00502,48,Perempuan,Operations,Manajer Logistik,Bisnis,15,0,34993521,Ya,3,2,,7,3,2,Ya
+EMP00503,42,Laki-laki,Sales,Sales Representative,,0,0,40862287,Ya,4,3,4,1,5,4,Tidak
+EMP00504,37,Laki-laki,Operations,Supervisor,Teknik,20,9,,Tidak,1,3,4,2,2,4,Tidak
+EMP00505,38,Laki-laki,HR,Recruiter,Teknik,0,0,59045274,Ya,4,4,4,2,4,1,Ya
+EMP00506,46,Perempuan,Sales,Sales Manager,IPA,1,1,18106683,Tidak,1,3,3,9,0,4,Ya
+EMP00507,40,Laki-laki,Sales,Account Executive,IPS,16,,13363418,Tidak,4,2,3,1,1,3,Tidak
+EMP00508,36,Perempuan,HR,HR Specialist,Sains,19,1,55019043,Ya,2,2,1,3,5,3,Tidak
+EMP00509,32,Laki-laki,Finance,Budget Controller,Sains,17,12,14636432,Tidak,2,3,2,5,0,3,Tidak
+EMP00510,28,Perempuan,HR,HR Specialist,IPA,11,3,6080250,Ya,1,3,4,6,2,1,Ya
+EMP00511,53,Laki-laki,HR,Training Specialist,IPS,14,5,41206018,Ya,2,,2,6,0,2,Tidak
+EMP00512,,Laki-laki,IT,Data Analyst,Teknik,18,11,49959306,Tidak,2,1,4,2,1,4,Ya
+EMP00513,58,Perempuan,IT,QA Engineer,Sains,20,0,8008704,Tidak,2,4,3,1,1,2,Tidak
+EMP00514,52,Perempuan,Sales,Account Executive,Kedokteran,3,3,52644281,Tidak,1,2,3,1,2,1,Ya
+EMP00515,41,Laki-laki,IT,Software Engineer,,2,0,35604483,Ya,2,3,3,4,2,3,Tidak
+EMP00516,37,Perempuan,Sales,Sales Representative,IPS,20,2,33142397,Ya,1,1,4,9,1,1,Ya
+EMP00517,22,Laki-laki,IT,Data Engineer,IPS,8,8,62206723,Ya,3,3,2,3,5,2,Tidak
+EMP00518,29,Laki-laki,HR,Training Specialist,Sains,7,5,58521252,Tidak,3,3,3,6,2,2,Tidak
+EMP00519,50,Perempuan,Sales,Account Executive,IPA,14,6,26568478,Tidak,3,2,2,3,5,3,Ya
+EMP00520,32,Perempuan,Operations,Supervisor,IPS,7,7,5072591,Tidak,,,4,5,6,1,Tidak
+EMP00521,53,Perempuan,IT,QA Engineer,IPS,17,10,5416821,Tidak,1,1,1,8,3,1,Tidak
+EMP00522,37,Laki-laki,Sales,Account Executive,IPS,14,12,38209557,Tidak,1,2,1,5,5,2,Tidak
+EMP00523,45,Perempuan,IT,Software Engineer,Kedokteran,7,6,51162336,Tidak,1,3,2,1,6,3,Tidak
+EMP00524,47,Laki-laki,HR,HR Specialist,Teknik,16,9,8226060,Tidak,3,1,,3,6,4,Ya
+EMP00525,35,Laki-laki,IT,QA Engineer,Kedokteran,14,1,46059186,Tidak,1,2,4,6,0,1,Tidak
+EMP00526,53,Perempuan,Finance,Akuntan,Kedokteran,19,7,64256910,Tidak,3,1,1,8,5,2,Tidak
+EMP00527,53,Perempuan,Sales,Sales Representative,Teknik,9,2,41046866,Ya,1,1,3,2,3,1,Ya
+EMP00528,33,Perempuan,,Recruiter,IPA,15,7,48316161,Tidak,4,2,,2,0,3,Tidak
+EMP00529,42,Laki-laki,IT,Data Engineer,Kedokteran,1,,7028031,,1,3,4,6,1,1,Tidak
+EMP00530,33,Laki-laki,Operations,Manajer Logistik,Kedokteran,14,5,23589539,Tidak,,4,3,1,2,4,Ya
+EMP00531,36,Perempuan,HR,Recruiter,Teknik,2,0,14730426,Ya,1,4,3,7,1,3,Tidak
+EMP00532,29,Perempuan,Finance,Financial Analyst,Sains,14,8,62698099,Ya,1,3,1,5,0,3,Tidak
+EMP00533,36,Perempuan,HR,HR Specialist,IPS,5,5,26140016,Tidak,3,4,1,9,6,4,Tidak
+EMP00534,44,Perempuan,Operations,Supervisor,Sains,7,5,22254165,Tidak,2,4,,8,5,4,Tidak
+EMP00535,32,Laki-laki,Operations,Staff Operasional,Bisnis,4,4,14009342,Tidak,1,1,1,1,2,4,Ya
+EMP00536,56,Laki-laki,Finance,Financial Analyst,Teknik,11,3,51020029,Tidak,1,1,3,8,0,,Tidak
+EMP00537,26,Perempuan,Finance,Akuntan,IPA,6,,30604552,Tidak,1,2,1,9,2,3,Tidak
+EMP00538,57,Perempuan,Operations,Staff Operasional,Kedokteran,0,0,46681671,Tidak,2,4,1,6,5,3,Tidak
+EMP00539,34,Perempuan,IT,DevOps,IPA,14,6,8968838,Ya,4,3,1,0,4,4,Tidak
+EMP00540,34,Laki-laki,Sales,Sales Representative,,20,4,,Ya,2,4,1,6,3,2,Ya
+EMP00541,56,Laki-laki,Finance,Akuntan,Sains,1,1,64879735,Ya,4,4,2,1,6,4,Tidak
+EMP00542,23,Perempuan,HR,Recruiter,Bisnis,17,7,26725846,Tidak,4,2,1,,1,4,Tidak
+EMP00543,32,Laki-laki,IT,Software Engineer,Sains,1,1,21489866,Tidak,4,2,4,0,2,2,Tidak
+EMP00544,38,Perempuan,Finance,Budget Controller,IPS,19,4,36109511,Ya,3,1,4,8,4,2,Ya
+EMP00545,27,Laki-laki,Operations,Supervisor,IPS,5,,33551907,Ya,3,,2,8,6,3,Tidak
+EMP00546,32,Perempuan,HR,Recruiter,IPS,,6,55524933,Ya,4,1,4,4,3,3,Ya
+EMP00547,24,Laki-laki,Sales,Sales Representative,Teknik,14,9,17536914,Tidak,4,3,2,8,1,1,Tidak
+EMP00548,45,Perempuan,Sales,Sales Manager,Kedokteran,9,1,11916443,Ya,4,1,3,5,0,4,Ya
+EMP00549,23,Perempuan,Sales,Account Executive,IPA,19,3,4157623,Ya,1,4,3,5,6,1,Tidak
+EMP00550,33,Laki-laki,Sales,Account Executive,IPA,17,5,42958124,Ya,2,4,1,4,6,,Ya
+EMP00551,38,Laki-laki,Operations,Staff Operasional,Sains,0,0,8367308,Tidak,4,4,1,1,1,1,Tidak
+EMP00552,34,Perempuan,Finance,Budget Controller,Sains,9,9,26598450,Ya,2,2,3,4,3,2,Tidak
+EMP00553,33,Perempuan,IT,Software Engineer,IPS,3,1,61235844,Ya,2,2,4,9,2,2,Tidak
+EMP00554,,Laki-laki,Operations,Staff Operasional,Sains,19,0,25598326,Tidak,1,1,3,,2,3,Tidak
+EMP00555,51,Perempuan,Finance,Financial Analyst,Sains,0,0,8771283,Tidak,3,1,1,9,4,3,Ya
+EMP00556,57,Laki-laki,Finance,Financial Analyst,Kedokteran,0,0,8918873,Tidak,1,4,1,9,1,2,Ya
+EMP00557,50,Perempuan,Finance,Budget Controller,Teknik,20,5,25899784,Tidak,1,3,4,2,2,2,Ya
+EMP00558,40,Laki-laki,IT,QA Engineer,IPS,10,9,11525571,Tidak,2,1,3,0,4,2,Tidak
+EMP00559,31,Laki-laki,IT,Data Engineer,Sains,18,9,13566964,Ya,,2,4,0,3,3,Ya
+EMP00560,48,Laki-laki,IT,DevOps,Teknik,1,1,,Ya,4,,2,9,,1,Tidak
+EMP00561,34,,IT,Data Analyst,IPS,1,1,28664323,Tidak,4,4,1,,4,3,Tidak
+EMP00562,38,Laki-laki,HR,Training Specialist,Teknik,20,,40241461,Ya,4,2,4,0,3,1,Tidak
+EMP00563,53,Laki-laki,Sales,Sales Representative,Teknik,6,6,4480450,Ya,2,3,3,1,,,Tidak
+EMP00564,24,Perempuan,Sales,Sales Representative,Sains,0,0,18465073,Ya,3,3,3,9,,4,Ya
+EMP00565,37,Perempuan,HR,Recruiter,IPS,20,9,50194252,Tidak,2,2,2,9,6,1,Tidak
+EMP00566,54,Perempuan,Finance,Financial Analyst,IPA,14,0,31488229,Ya,,2,3,2,0,3,Tidak
+EMP00567,33,Perempuan,Sales,Account Executive,IPA,1,1,63900939,Tidak,3,4,2,2,2,3,Tidak
+EMP00568,35,Perempuan,HR,Training Specialist,Kedokteran,5,1,54372409,Ya,3,1,4,0,6,3,Ya
+EMP00569,35,Perempuan,Finance,Financial Analyst,Teknik,19,,27928499,Tidak,2,2,4,4,3,4,Ya
+EMP00570,51,Laki-laki,Sales,Sales Representative,IPS,11,0,58059891,Tidak,4,1,3,7,5,1,Ya
+EMP00571,49,Laki-laki,IT,Data Engineer,Teknik,18,1,34729887,Ya,3,4,1,5,1,2,Ya
+EMP00572,54,Perempuan,Operations,Staff Operasional,Sains,1,1,31154341,,3,2,4,7,2,3,Tidak
+EMP00573,55,Laki-laki,Operations,Manajer Logistik,,20,8,4970595,Ya,1,1,1,4,1,4,Tidak
+EMP00574,44,Perempuan,IT,Software Engineer,IPA,17,2,40858984,Tidak,4,4,2,5,1,4,Tidak
+EMP00575,28,Perempuan,HR,HR Specialist,IPA,14,7,17478905,Tidak,4,2,3,4,4,1,Tidak
+EMP00576,27,Perempuan,Finance,Financial Analyst,Teknik,20,1,49863189,Tidak,2,4,3,3,6,2,Tidak
+EMP00577,38,Perempuan,IT,QA Engineer,Kedokteran,8,8,41552514,Ya,4,2,3,7,2,3,Tidak
+EMP00578,36,Laki-laki,Sales,Account Executive,Bisnis,6,6,8908277,Tidak,3,1,2,9,3,3,Tidak
+EMP00579,57,Perempuan,IT,Data Analyst,IPA,2,2,13408286,Ya,2,1,3,3,1,2,Ya
+EMP00580,47,Perempuan,Finance,Akuntan,Sains,13,9,46322739,Ya,1,1,3,6,2,3,Ya
+EMP00581,53,Laki-laki,,Recruiter,Kedokteran,5,2,22677068,Tidak,3,3,4,5,5,2,Tidak
+EMP00582,56,Laki-laki,Operations,Supervisor,IPS,6,6,11697465,Tidak,2,3,,1,0,1,Tidak
+EMP00583,57,Perempuan,HR,HR Specialist,Kedokteran,15,8,40390025,,3,2,1,5,2,1,Tidak
+EMP00584,29,,Operations,Staff Operasional,Sains,15,12,50383514,Ya,2,1,4,2,4,4,Ya
+EMP00585,35,Perempuan,Finance,Budget Controller,Teknik,19,2,50989140,Tidak,3,2,4,6,1,3,Tidak
+EMP00586,48,Laki-laki,HR,Recruiter,Kedokteran,11,3,,Tidak,2,2,1,6,5,2,Tidak
+EMP00587,26,Perempuan,IT,Software Engineer,IPA,12,1,24804267,Tidak,4,4,2,3,5,3,Tidak
+EMP00588,36,Laki-laki,HR,HR Specialist,Sains,15,7,59749716,Ya,4,2,2,4,2,4,Tidak
+EMP00589,30,Laki-laki,IT,DevOps,Teknik,20,7,36292977,Ya,3,3,4,4,6,3,Tidak
+EMP00590,34,Perempuan,Operations,Manajer Logistik,IPA,0,0,6355776,Tidak,2,4,3,8,1,4,Ya
+EMP00591,35,Laki-laki,Finance,Akuntan,,7,7,32254195,Ya,1,3,2,1,3,4,Tidak
+EMP00592,35,Laki-laki,IT,Software Engineer,Kedokteran,,9,27981585,Ya,2,3,,1,0,2,Ya
+EMP00593,56,Laki-laki,Operations,Manajer Logistik,Bisnis,4,3,29608933,Ya,1,2,4,6,6,2,Ya
+EMP00594,39,Laki-laki,Finance,Akuntan,Teknik,17,5,,Ya,3,3,2,6,0,3,Tidak
+EMP00595,37,Laki-laki,Operations,Staff Operasional,IPA,19,,60789284,Ya,3,4,1,1,2,3,Ya
+EMP00596,37,Laki-laki,Operations,Staff Operasional,Teknik,19,12,38048345,Tidak,2,3,4,3,1,3,Tidak
+EMP00597,42,Perempuan,IT,DevOps,Teknik,14,9,57978175,Tidak,2,4,1,9,4,2,Tidak
+EMP00598,38,Perempuan,Sales,Sales Representative,Teknik,9,2,45551427,Tidak,2,3,2,7,3,3,Tidak
+EMP00599,30,Perempuan,Operations,Staff Operasional,Kedokteran,5,5,17331782,Tidak,3,1,4,0,2,1,Tidak
+EMP00600,35,Perempuan,Operations,Staff Operasional,IPS,12,4,25779397,Tidak,4,1,2,8,4,2,Tidak
+EMP00601,54,Laki-laki,Operations,Manajer Logistik,Sains,13,3,26267599,Tidak,1,4,1,7,3,3,Tidak
+EMP00602,32,Laki-laki,IT,DevOps,IPS,17,6,21578103,Ya,4,4,4,3,3,4,Tidak
+EMP00603,21,Perempuan,Operations,Supervisor,Teknik,6,0,55498184,Tidak,4,4,2,7,3,2,Tidak
+EMP00604,43,Perempuan,Operations,Manajer Logistik,Kedokteran,11,11,54046562,Ya,3,4,2,6,6,3,Tidak
+EMP00605,56,Perempuan,Sales,Account Executive,Teknik,7,4,63722903,Ya,4,3,3,0,3,3,Tidak
+EMP00606,23,Laki-laki,IT,Data Analyst,,20,9,33104984,Ya,4,1,1,1,1,2,Ya
+EMP00607,53,Perempuan,Operations,Manajer Logistik,Kedokteran,7,2,57364143,Ya,1,,1,0,2,3,Tidak
+EMP00608,46,Perempuan,Finance,Akuntan,IPS,16,0,19654369,Ya,3,1,3,1,5,1,Tidak
+EMP00609,48,Laki-laki,Sales,Account Executive,Kedokteran,4,4,49855181,Ya,3,3,4,5,4,1,Tidak
+EMP00610,40,Laki-laki,Sales,Sales Representative,Sains,8,2,11590144,Tidak,1,3,2,6,5,3,Tidak
+EMP00611,35,Laki-laki,IT,Data Engineer,Bisnis,11,10,37271257,Tidak,2,1,3,0,6,2,Ya
+EMP00612,33,Perempuan,Finance,Financial Analyst,Teknik,5,2,21691358,Ya,1,2,1,4,5,3,Tidak
+EMP00613,27,Perempuan,Sales,Sales Representative,IPA,14,3,43586891,Tidak,3,3,2,6,3,2,Tidak
+EMP00614,25,Perempuan,Sales,Sales Manager,IPA,12,8,49681385,Tidak,4,3,2,6,0,1,Tidak
+EMP00615,41,Laki-laki,IT,DevOps,Bisnis,11,1,38040339,Ya,4,3,3,3,2,4,Tidak
+EMP00616,27,Perempuan,Sales,Sales Manager,IPS,12,11,45907788,Ya,4,1,2,1,3,1,Tidak
+EMP00617,24,Perempuan,Operations,Manajer Logistik,IPS,18,11,48098437,Ya,2,4,4,7,6,3,Tidak
+EMP00618,43,Laki-laki,Finance,Akuntan,Sains,9,9,4683312,Tidak,4,1,3,7,5,3,Tidak
+EMP00619,53,Laki-laki,HR,Training Specialist,Sains,18,1,21626229,Ya,2,3,3,8,0,1,Ya
+EMP00620,36,Perempuan,HR,HR Specialist,Teknik,6,6,52919626,Tidak,1,4,1,0,3,2,Tidak
+EMP00621,31,Perempuan,Sales,Account Executive,IPA,7,6,41258479,Ya,1,2,3,4,0,4,Ya
+EMP00622,40,Perempuan,Finance,Akuntan,Teknik,12,9,,Ya,3,3,3,1,6,4,Tidak
+EMP00623,44,Perempuan,IT,Data Analyst,Bisnis,20,4,45492982,Ya,2,3,4,6,6,4,Tidak
+EMP00624,47,Perempuan,IT,Data Analyst,IPS,17,3,19779012,Tidak,3,4,3,5,3,1,Tidak
+EMP00625,33,Perempuan,Finance,Financial Analyst,Sains,15,3,7950797,Tidak,3,3,3,,1,2,Tidak
+EMP00626,56,Laki-laki,HR,HR Specialist,Teknik,14,9,12509336,Tidak,1,3,4,0,1,3,Ya
+EMP00627,49,Laki-laki,IT,Data Engineer,IPS,1,1,9713589,Ya,2,3,3,6,0,1,Tidak
+EMP00628,54,Perempuan,Sales,Sales Representative,Bisnis,8,2,5233450,Tidak,4,4,3,7,1,1,Tidak
+EMP00629,36,Perempuan,Sales,Account Executive,Kedokteran,2,2,43396532,Ya,4,4,3,5,0,3,Ya
+EMP00630,33,Perempuan,Finance,Budget Controller,Kedokteran,2,2,,Ya,2,2,1,5,2,4,Ya
+EMP00631,40,Laki-laki,Finance,Akuntan,,17,1,42047076,,1,3,1,4,3,4,Tidak
+EMP00632,37,Perempuan,Finance,Akuntan,Kedokteran,18,12,60099390,Tidak,3,4,4,6,,3,Tidak
+EMP00633,47,Laki-laki,HR,Recruiter,IPS,9,9,26399243,Tidak,,3,3,0,4,4,Tidak
+EMP00634,51,Perempuan,Sales,Sales Representative,IPS,0,0,49418117,Ya,2,3,2,4,1,4,Tidak
+EMP00635,23,Perempuan,Finance,Financial Analyst,Kedokteran,10,6,11568245,Ya,2,1,2,0,0,,Tidak
+EMP00636,34,Laki-laki,IT,DevOps,Kedokteran,17,0,9605432,,3,2,4,4,6,4,Ya
+EMP00637,33,Perempuan,IT,DevOps,Bisnis,14,10,43261570,Ya,4,2,2,0,6,4,Ya
+EMP00638,41,Laki-laki,Sales,Account Executive,Kedokteran,5,,47591985,Ya,4,,3,7,6,1,Tidak
+EMP00639,46,Perempuan,Finance,Financial Analyst,IPA,18,,17015290,Ya,4,1,2,3,2,1,Tidak
+EMP00640,32,Laki-laki,IT,DevOps,IPA,0,0,14331662,Ya,4,3,3,3,0,1,Ya
+EMP00641,56,Laki-laki,IT,DevOps,Bisnis,17,12,23995377,Tidak,2,2,3,3,6,4,Ya
+EMP00642,,Perempuan,,Software Engineer,Sains,12,10,62723683,Ya,1,1,2,0,4,1,Ya
+EMP00643,26,Laki-laki,Sales,Sales Manager,Teknik,0,0,28995071,Ya,3,1,4,4,4,3,Tidak
+EMP00644,48,Laki-laki,Finance,Budget Controller,Kedokteran,5,1,14133090,Tidak,4,3,1,9,2,2,Tidak
+EMP00645,29,Perempuan,IT,Software Engineer,Sains,4,,4281109,Tidak,1,2,2,9,2,4,Tidak
+EMP00646,42,Perempuan,IT,QA Engineer,Bisnis,20,1,32726183,Ya,3,2,2,7,6,2,Tidak
+EMP00647,,Laki-laki,Finance,Financial Analyst,Bisnis,15,4,37280922,Tidak,4,2,4,4,1,1,Tidak
+EMP00648,49,Perempuan,Finance,Akuntan,IPS,3,3,11983543,Tidak,2,3,4,3,1,1,Ya
+EMP00649,43,Perempuan,Finance,Financial Analyst,Sains,0,0,26597207,,1,4,1,2,2,3,Ya
+EMP00650,,Perempuan,Operations,Manajer Logistik,Bisnis,8,1,39958564,Ya,1,3,4,0,4,4,Tidak
+EMP00651,32,Laki-laki,Operations,Staff Operasional,IPA,1,1,13388395,Tidak,1,1,4,7,2,1,Tidak
+EMP00652,26,Laki-laki,IT,Data Engineer,Sains,8,3,50703865,Tidak,3,4,2,7,0,2,Tidak
+EMP00653,47,Perempuan,Finance,Budget Controller,Bisnis,12,1,7399606,Ya,2,,3,,5,3,Ya
+EMP00654,40,Laki-laki,Sales,Account Executive,Sains,8,0,11843603,Tidak,2,1,4,1,4,2,Tidak
+EMP00655,,Laki-laki,HR,Training Specialist,Teknik,20,12,35623427,Tidak,3,1,4,2,6,4,Ya
+EMP00656,40,Perempuan,Sales,Sales Manager,Bisnis,13,2,23156958,Tidak,1,4,4,1,6,4,Tidak
+EMP00657,34,Perempuan,Operations,Staff Operasional,Sains,8,2,31340551,Ya,,1,1,5,5,1,Ya
+EMP00658,21,Laki-laki,Sales,Sales Manager,IPS,0,0,62616653,Ya,4,4,2,6,5,1,Tidak
+EMP00659,25,Perempuan,Operations,Manajer Logistik,IPA,2,1,33190580,Ya,4,4,3,3,0,3,Tidak
+EMP00660,45,Laki-laki,Operations,Manajer Logistik,Sains,1,1,36362299,Tidak,2,2,4,5,5,4,Tidak
+EMP00661,46,Laki-laki,IT,DevOps,Kedokteran,10,1,42631816,Tidak,4,2,,3,6,3,Ya
+EMP00662,38,Perempuan,Finance,Budget Controller,IPA,16,10,5856982,Tidak,4,4,3,9,2,3,Tidak
+EMP00663,42,Perempuan,IT,Software Engineer,Kedokteran,1,1,49778960,Ya,1,1,2,0,5,4,Ya
+EMP00664,,Laki-laki,Sales,Sales Representative,IPA,16,7,64291210,Tidak,1,4,,3,4,4,Ya
+EMP00665,47,Perempuan,Operations,Supervisor,Sains,9,9,17976216,,4,,4,4,5,,Tidak
+EMP00666,24,Laki-laki,Finance,Akuntan,Teknik,18,4,31259273,Tidak,2,1,4,6,3,1,Tidak
+EMP00667,37,Perempuan,Sales,Sales Representative,Sains,0,0,49012376,Ya,4,3,4,1,4,3,Tidak
+EMP00668,32,Laki-laki,HR,Training Specialist,IPA,13,3,8784107,Ya,4,3,2,4,3,1,Ya
+EMP00669,43,Laki-laki,IT,QA Engineer,Teknik,3,3,17930156,Tidak,3,3,4,2,3,4,Tidak
+EMP00670,53,Laki-laki,Operations,Staff Operasional,Sains,9,9,24496546,Ya,2,1,1,9,6,1,Tidak
+EMP00671,22,Perempuan,Operations,Staff Operasional,Teknik,2,2,18984765,Tidak,3,3,3,1,,2,Tidak
+EMP00672,37,Perempuan,Operations,Staff Operasional,Sains,3,,48347574,Ya,2,2,2,1,0,1,Tidak
+EMP00673,46,Laki-laki,Sales,Sales Representative,IPS,0,0,28055547,Tidak,4,3,4,0,3,4,Tidak
+EMP00674,21,Perempuan,Operations,Supervisor,IPS,5,5,11466996,Tidak,1,2,1,5,4,,Ya
+EMP00675,54,Laki-laki,IT,Data Analyst,Teknik,20,5,46338307,Ya,3,3,2,,5,4,Tidak
+EMP00676,50,Laki-laki,Finance,Budget Controller,Teknik,4,2,12171749,Tidak,2,2,2,8,5,2,Tidak
+EMP00677,52,Perempuan,HR,Recruiter,Kedokteran,20,12,49215060,Tidak,3,3,2,2,,4,Tidak
+EMP00678,53,,Finance,Budget Controller,Kedokteran,17,7,32588355,Tidak,2,4,3,3,6,4,Tidak
+EMP00679,22,Perempuan,Finance,Akuntan,Teknik,5,,21084299,Tidak,3,3,2,4,5,3,Tidak
+EMP00680,57,Laki-laki,Operations,Staff Operasional,IPS,4,2,42467593,Ya,1,3,3,0,5,1,Tidak
+EMP00681,21,Laki-laki,Operations,Manajer Logistik,Teknik,5,0,,Tidak,1,1,3,8,1,,Ya
+EMP00682,23,,Sales,Account Executive,Bisnis,10,2,41047331,Tidak,3,2,4,9,4,2,Ya
+EMP00683,44,Laki-laki,Finance,Akuntan,Teknik,4,4,34255942,Tidak,3,3,3,3,3,3,Tidak
+EMP00684,39,Laki-laki,Operations,Manajer Logistik,IPA,2,2,44396374,Tidak,2,1,2,1,4,4,Tidak
+EMP00685,40,Laki-laki,Operations,Manajer Logistik,Sains,17,9,23528401,Tidak,3,1,1,3,6,3,Tidak
+EMP00686,49,Perempuan,Operations,Supervisor,IPS,13,0,33100498,Ya,3,3,3,2,6,4,Ya
+EMP00687,41,Perempuan,Finance,Financial Analyst,Teknik,11,8,27623438,Ya,3,1,4,2,6,3,Tidak
+EMP00688,22,Laki-laki,IT,Data Engineer,Kedokteran,18,5,25739830,Ya,1,3,,3,2,3,Ya
+EMP00689,58,Perempuan,IT,Software Engineer,Bisnis,7,7,17667000,Tidak,3,3,,5,2,3,Tidak
+EMP00690,45,Laki-laki,Operations,Supervisor,Bisnis,16,8,45474946,Ya,1,4,4,0,4,2,Tidak
+EMP00691,36,Perempuan,Sales,Sales Manager,Kedokteran,12,0,20697176,Ya,2,3,2,4,0,4,Ya
+EMP00692,38,Perempuan,IT,Data Analyst,IPS,10,4,23005932,Tidak,4,3,3,6,,3,Tidak
+EMP00693,44,Laki-laki,Sales,Sales Representative,Kedokteran,20,6,18305690,Tidak,3,1,1,7,3,3,Tidak
+EMP00694,21,Perempuan,HR,Recruiter,Bisnis,10,5,59855171,Ya,3,3,1,3,6,3,Tidak
+EMP00695,30,Laki-laki,Finance,Financial Analyst,Bisnis,4,4,50825125,Tidak,3,1,,3,0,4,Tidak
+EMP00696,,Perempuan,Operations,Manajer Logistik,IPA,14,12,59199218,Ya,2,3,1,1,0,2,Tidak
+EMP00697,55,Perempuan,Operations,Staff Operasional,IPS,10,6,11544325,Tidak,1,2,2,3,,1,Tidak
+EMP00698,55,Perempuan,HR,HR Specialist,Kedokteran,16,3,40111314,Tidak,4,4,2,8,5,3,Tidak
+EMP00699,40,Laki-laki,Finance,Financial Analyst,IPA,2,2,36842827,Tidak,1,3,4,,5,4,Tidak
+EMP00700,24,Perempuan,Finance,Financial Analyst,Kedokteran,14,10,34919443,Ya,1,,3,8,5,4,Ya
+EMP00701,28,,HR,HR Specialist,IPS,17,9,59487012,Ya,4,3,2,,4,2,Ya
+EMP00702,29,Laki-laki,Sales,Account Executive,Bisnis,13,11,53804775,Ya,4,2,3,,6,4,Tidak
+EMP00703,25,Laki-laki,Operations,Staff Operasional,IPA,18,9,,Tidak,,,3,1,6,4,Tidak
+EMP00704,35,Perempuan,IT,Data Engineer,Teknik,2,2,39245361,Ya,3,3,4,2,1,4,Tidak
+EMP00705,57,Perempuan,Sales,Sales Representative,IPA,1,1,64228843,Tidak,2,1,3,2,1,1,Ya
+EMP00706,33,Laki-laki,Sales,Sales Representative,Teknik,12,11,7552838,Tidak,3,2,2,6,1,4,Ya
+EMP00707,44,Laki-laki,Sales,Sales Representative,IPA,7,7,26212277,Tidak,2,,3,5,6,4,Tidak
+EMP00708,52,Perempuan,Finance,Budget Controller,Sains,3,3,29690697,Tidak,1,2,1,2,1,1,Ya
+EMP00709,39,Perempuan,IT,DevOps,IPS,11,11,35010519,Ya,3,1,4,7,0,2,Tidak
+EMP00710,33,Perempuan,Sales,Sales Representative,Sains,5,5,10868781,Ya,3,3,4,1,0,4,Tidak
+EMP00711,53,Laki-laki,Operations,Manajer Logistik,Kedokteran,19,0,61079158,Tidak,4,4,4,8,3,3,Tidak
+EMP00712,50,Perempuan,IT,Software Engineer,Bisnis,4,4,27701954,Tidak,2,3,,8,1,3,Tidak
+EMP00713,27,Perempuan,Operations,Supervisor,Sains,16,11,10141821,Tidak,3,1,3,6,4,3,Ya
+EMP00714,25,Perempuan,Finance,Budget Controller,IPS,19,2,42404605,Ya,2,4,2,5,0,1,Ya
+EMP00715,21,Laki-laki,HR,Training Specialist,Sains,8,1,16947651,Tidak,3,3,3,7,6,2,Tidak
+EMP00716,36,Perempuan,HR,,IPS,3,3,29583825,Tidak,3,1,1,1,4,2,Tidak
+EMP00717,45,Laki-laki,IT,Data Engineer,Kedokteran,19,6,43248942,Tidak,3,1,1,2,3,,Ya
+EMP00718,37,Laki-laki,Sales,Sales Representative,IPA,19,3,60644265,Tidak,1,1,4,7,3,2,Ya
+EMP00719,29,Laki-laki,Finance,Budget Controller,Bisnis,20,10,27808774,Ya,3,3,1,9,4,2,Tidak
+EMP00720,25,Perempuan,Finance,Akuntan,,8,8,35482650,Ya,3,4,4,0,3,4,Tidak
+EMP00721,44,Laki-laki,IT,Software Engineer,Sains,16,7,38823569,Tidak,1,2,2,5,1,3,Tidak
+EMP00722,42,Laki-laki,Operations,Supervisor,IPA,9,9,49406393,Tidak,1,2,3,2,1,2,Tidak
+EMP00723,54,Perempuan,Operations,Staff Operasional,IPA,10,8,50868370,Tidak,1,4,3,1,5,2,Ya
+EMP00724,49,Perempuan,Operations,Supervisor,Teknik,7,4,59796961,Tidak,2,3,4,8,5,3,Tidak
+EMP00725,,Laki-laki,Operations,Supervisor,Kedokteran,6,6,21828428,Tidak,1,1,3,1,3,3,Tidak
+EMP00726,35,Laki-laki,HR,Recruiter,Kedokteran,16,0,17510495,Tidak,4,1,1,4,3,2,Tidak
+EMP00727,31,Perempuan,Operations,Supervisor,IPA,3,1,47867872,Ya,4,3,3,4,,3,Tidak
+EMP00728,28,Perempuan,HR,Recruiter,Teknik,15,2,18488877,Tidak,3,3,4,3,1,4,Tidak
+EMP00729,44,Perempuan,Sales,Sales Representative,Kedokteran,0,0,53030343,Tidak,2,3,3,0,5,4,Tidak
+EMP00730,41,Perempuan,Finance,Budget Controller,Teknik,4,4,28442480,Tidak,2,,3,4,5,3,Tidak
+EMP00731,36,Perempuan,Operations,Manajer Logistik,Bisnis,8,5,60769795,Tidak,1,1,2,1,6,3,Tidak
+EMP00732,45,Perempuan,Finance,Akuntan,Sains,18,10,64088728,Ya,2,1,4,7,5,1,Ya
+EMP00733,31,Laki-laki,IT,DevOps,Teknik,8,8,24191563,Tidak,2,2,4,1,3,3,Tidak
+EMP00734,48,Perempuan,Sales,Account Executive,IPS,16,9,22014893,Tidak,1,4,3,3,4,3,Tidak
+EMP00735,29,Laki-laki,IT,Software Engineer,Bisnis,9,3,41117619,Ya,4,1,4,7,2,1,Tidak
+EMP00736,23,Perempuan,Finance,Akuntan,Bisnis,4,4,33613513,Ya,2,1,2,3,6,2,Tidak
+EMP00737,,,,Manajer Logistik,Kedokteran,11,10,61782218,,2,4,1,3,0,3,Tidak
+EMP00738,37,Laki-laki,,Akuntan,IPS,12,3,24471680,Tidak,1,2,2,7,3,2,Tidak
+EMP00739,51,Perempuan,Sales,Account Executive,Bisnis,18,6,5630736,Tidak,4,4,3,0,2,4,Ya
+EMP00740,58,Laki-laki,Operations,Supervisor,Bisnis,15,3,57442615,Ya,4,2,3,9,1,4,Ya
+EMP00741,29,Perempuan,Sales,Account Executive,Bisnis,3,3,,Tidak,1,3,1,7,1,2,Tidak
+EMP00742,29,Laki-laki,Finance,Akuntan,Kedokteran,11,3,26449157,Tidak,4,1,,8,1,,Ya
+EMP00743,46,Perempuan,IT,Software Engineer,Kedokteran,17,1,13569421,Tidak,3,4,,6,2,4,Tidak
+EMP00744,46,Perempuan,IT,Software Engineer,Kedokteran,13,6,34688317,Ya,4,3,,5,,1,Tidak
+EMP00745,56,Perempuan,Sales,Sales Manager,Sains,2,1,37780354,Tidak,3,2,2,4,2,4,Tidak
+EMP00746,56,Laki-laki,Operations,Manajer Logistik,Teknik,5,5,59640745,Tidak,2,4,1,6,2,2,Tidak
+EMP00747,54,Laki-laki,HR,Training Specialist,Kedokteran,7,7,37067902,Ya,4,2,1,3,1,3,Tidak
+EMP00748,51,Laki-laki,Finance,Financial Analyst,Teknik,0,0,31996282,Tidak,1,1,2,2,5,3,Tidak
+EMP00749,35,Laki-laki,Finance,Budget Controller,Kedokteran,18,5,26471908,Tidak,3,4,4,4,0,2,Tidak
+EMP00750,25,,Sales,Sales Representative,Sains,19,0,52129376,Ya,1,1,4,5,3,2,Ya
+EMP00751,37,Laki-laki,Sales,Account Executive,Sains,17,3,7760298,Ya,2,4,4,9,0,2,Tidak
+EMP00752,30,Perempuan,IT,QA Engineer,Bisnis,5,4,27420156,Tidak,2,2,,7,2,3,Tidak
+EMP00753,27,Laki-laki,Operations,Staff Operasional,Sains,18,11,40210057,Tidak,4,3,4,5,,1,Tidak
+EMP00754,24,Perempuan,IT,QA Engineer,IPS,20,1,25573294,Tidak,3,2,,5,3,1,Ya
+EMP00755,32,Perempuan,Operations,Staff Operasional,Sains,8,2,22027899,Ya,1,1,2,3,1,4,Ya
+EMP00756,37,Perempuan,Finance,Budget Controller,Kedokteran,7,2,55712657,Tidak,1,4,2,3,4,2,Ya
+EMP00757,49,Perempuan,Sales,Sales Manager,Sains,5,5,56008383,Tidak,2,,3,7,2,1,Ya
+EMP00758,54,Laki-laki,HR,HR Specialist,Sains,2,2,42276833,Ya,,4,3,8,6,4,Tidak
+EMP00759,35,Perempuan,,HR Specialist,Teknik,15,7,,Tidak,1,3,1,5,2,4,Tidak
+EMP00760,,Laki-laki,Sales,Sales Representative,Kedokteran,6,1,8438782,Ya,,1,1,3,6,4,Tidak
+EMP00761,25,Laki-laki,HR,Training Specialist,Teknik,20,7,38439999,Tidak,2,3,1,6,2,3,Ya
+EMP00762,29,Perempuan,Sales,Sales Manager,Sains,,,34649244,Tidak,4,2,3,3,6,1,Ya
+EMP00763,52,Laki-laki,Finance,Financial Analyst,IPA,19,5,37169992,Tidak,4,2,1,7,1,3,Tidak
+EMP00764,,Perempuan,Sales,Sales Representative,Kedokteran,11,10,16155365,,3,1,4,3,5,3,Ya
+EMP00765,,Laki-laki,Sales,Sales Representative,Bisnis,13,1,29688518,Tidak,1,1,1,7,0,1,Tidak
+EMP00766,36,Laki-laki,HR,HR Specialist,Sains,15,11,25954405,Tidak,4,1,2,9,6,2,Ya
+EMP00767,58,Perempuan,Operations,Supervisor,IPS,18,4,56427940,Ya,4,2,4,,0,2,Ya
+EMP00768,56,Laki-laki,Sales,Account Executive,IPS,5,4,28506926,Tidak,4,3,4,3,1,2,Tidak
+EMP00769,32,Laki-laki,Sales,Sales Manager,Sains,9,9,37310471,Tidak,4,4,2,6,6,1,Tidak
+EMP00770,42,Laki-laki,Operations,,Teknik,4,1,50641513,Tidak,1,4,1,1,0,2,Tidak
+EMP00771,33,Laki-laki,Sales,Sales Manager,Kedokteran,6,6,51133455,Ya,1,2,4,5,1,2,Ya
+EMP00772,51,Laki-laki,Finance,Akuntan,IPS,6,4,13899431,Ya,1,1,1,,1,2,Ya
+EMP00773,41,Perempuan,HR,Training Specialist,Teknik,9,9,62854211,Ya,4,1,4,8,6,,Ya
+EMP00774,45,Perempuan,Finance,Budget Controller,Kedokteran,0,0,62411330,Ya,2,1,1,1,4,1,Ya
+EMP00775,,Laki-laki,IT,Data Analyst,Sains,15,5,55416838,Ya,4,4,3,4,5,3,Tidak
+EMP00776,49,Laki-laki,IT,Software Engineer,Bisnis,0,0,61446152,Tidak,4,2,1,3,2,3,Tidak
+EMP00777,50,Perempuan,,Training Specialist,Kedokteran,7,,,Ya,1,1,1,9,1,3,Ya
+EMP00778,31,Laki-laki,Operations,Staff Operasional,Teknik,6,,39860775,Ya,2,2,3,2,4,1,Tidak
+EMP00779,21,Laki-laki,Sales,Sales Representative,Bisnis,11,0,42350638,Ya,2,2,1,6,2,4,Ya
+EMP00780,57,Perempuan,HR,Training Specialist,IPS,5,4,48577988,Ya,,1,2,6,4,4,Ya
+EMP00781,41,Perempuan,HR,Recruiter,IPA,0,0,7389032,Ya,1,3,4,6,1,2,Tidak
+EMP00782,25,Laki-laki,HR,Training Specialist,Bisnis,8,8,63716714,Ya,2,4,4,6,4,4,Ya
+EMP00783,43,Laki-laki,Operations,Supervisor,IPA,10,7,63020753,Ya,2,1,,1,4,1,Ya
+EMP00784,55,Perempuan,IT,DevOps,IPS,14,1,,,3,1,2,5,2,2,Tidak
+EMP00785,24,Perempuan,IT,,Bisnis,14,2,30723335,Tidak,3,1,2,7,3,3,Tidak
+EMP00786,32,Perempuan,Sales,Sales Manager,Sains,,3,51537763,Tidak,3,2,2,5,6,4,Tidak
+EMP00787,53,Perempuan,Sales,Sales Representative,,14,10,41844830,Ya,1,2,4,5,5,2,Tidak
+EMP00788,29,Laki-laki,Finance,Budget Controller,Teknik,1,1,39003559,Ya,3,1,3,,2,3,Tidak
+EMP00789,45,Perempuan,Operations,Supervisor,Bisnis,9,5,64353096,Ya,3,3,1,1,0,2,Tidak
+EMP00790,49,Laki-laki,Finance,Akuntan,Bisnis,18,7,57050522,Tidak,3,1,2,7,1,2,Tidak
+EMP00791,44,Laki-laki,Sales,Account Executive,Kedokteran,3,3,11312249,Ya,1,2,1,9,5,1,Ya
+EMP00792,22,Laki-laki,Sales,Sales Representative,Bisnis,14,2,26522133,Tidak,4,1,3,7,2,2,Tidak
+EMP00793,,Laki-laki,IT,DevOps,IPA,13,1,12921912,Ya,1,1,4,1,2,3,Ya
+EMP00794,28,Perempuan,Sales,Account Executive,IPS,8,8,33436666,Ya,2,,2,3,6,4,Tidak
+EMP00795,43,Laki-laki,Operations,Supervisor,Sains,14,12,16351110,Tidak,3,2,3,4,3,3,Tidak
+EMP00796,31,Laki-laki,HR,Training Specialist,IPS,8,8,36172387,Tidak,2,3,3,4,6,1,Tidak
+EMP00797,45,Perempuan,IT,Software Engineer,Teknik,8,5,13736532,Tidak,2,1,3,1,0,4,Ya
+EMP00798,45,Laki-laki,HR,HR Specialist,IPA,5,4,58474594,Ya,4,1,3,9,3,1,Ya
+EMP00799,24,Laki-laki,Sales,Sales Manager,Teknik,1,1,32807284,Ya,4,1,3,,0,4,Ya
+EMP00800,39,Perempuan,HR,Training Specialist,Kedokteran,3,3,54455828,Ya,1,2,1,1,2,2,Ya
+EMP00801,43,Laki-laki,HR,Recruiter,Sains,15,5,48259059,Tidak,4,1,2,2,1,1,Tidak
+EMP00802,46,Laki-laki,Operations,Manajer Logistik,IPS,7,3,7264581,Tidak,3,1,2,9,3,2,Tidak
+EMP00803,58,Laki-laki,Operations,Supervisor,Bisnis,12,12,14582014,Tidak,1,2,3,,0,3,Tidak
+EMP00804,42,Laki-laki,Sales,Sales Representative,Teknik,3,3,45833260,Tidak,3,2,,5,2,2,Tidak
+EMP00805,21,Laki-laki,Sales,Sales Representative,IPS,8,3,13713057,Tidak,2,4,1,8,3,4,Tidak
+EMP00806,21,Perempuan,HR,Recruiter,IPA,15,4,36888461,Tidak,4,1,3,5,5,1,Ya
+EMP00807,21,Laki-laki,IT,QA Engineer,Kedokteran,4,,25844502,Tidak,3,3,1,9,6,1,Tidak
+EMP00808,57,Laki-laki,Sales,Sales Representative,IPS,8,0,21948668,Tidak,,3,3,0,2,3,Tidak
+EMP00809,21,Perempuan,Operations,Manajer Logistik,IPS,17,7,22954022,Ya,3,2,,8,2,,Tidak
+EMP00810,43,Perempuan,Sales,Sales Manager,IPA,20,5,26250760,Tidak,1,3,2,6,4,2,Ya
+EMP00811,22,Laki-laki,Operations,Supervisor,Kedokteran,6,1,4510772,Tidak,4,3,1,1,,2,Tidak
+EMP00812,36,Laki-laki,IT,DevOps,Bisnis,18,3,9112199,Tidak,3,2,3,0,5,4,Tidak
+EMP00813,57,Laki-laki,,Manajer Logistik,Kedokteran,2,2,56856967,Tidak,2,1,1,9,4,1,Tidak
+EMP00814,42,Perempuan,Sales,Sales Manager,IPS,20,1,16815716,Tidak,2,2,1,7,4,4,Tidak
+EMP00815,37,Laki-laki,,Sales Representative,Sains,15,3,58779973,Tidak,1,4,3,6,6,1,Tidak
+EMP00816,23,Perempuan,Finance,Financial Analyst,Sains,7,5,28678984,Ya,4,2,3,4,4,4,Tidak
+EMP00817,47,,Finance,Financial Analyst,Kedokteran,16,0,56034112,Tidak,4,3,1,7,0,3,Tidak
+EMP00818,55,Laki-laki,Operations,Staff Operasional,Bisnis,18,,38303827,Tidak,1,4,2,0,0,2,Tidak
+EMP00819,32,Laki-laki,Operations,Staff Operasional,Teknik,1,1,60781557,Tidak,3,1,3,0,6,4,Ya
+EMP00820,29,Laki-laki,IT,Data Analyst,Teknik,1,1,40766330,Tidak,3,2,4,8,2,1,Tidak
+EMP00821,57,,Finance,Financial Analyst,Bisnis,9,6,48528600,Tidak,4,4,3,7,2,4,Tidak
+EMP00822,48,Laki-laki,Finance,Akuntan,Teknik,0,0,4374057,Tidak,3,1,2,0,3,3,Tidak
+EMP00823,21,Perempuan,IT,Data Analyst,Bisnis,20,2,46622003,Tidak,2,1,1,5,6,3,Tidak
+EMP00824,32,Laki-laki,Sales,Sales Representative,Bisnis,12,9,,Tidak,4,2,2,8,2,2,Tidak
+EMP00825,29,Laki-laki,Sales,Sales Representative,Bisnis,15,9,53864552,Tidak,4,2,1,2,2,4,Tidak
+EMP00826,55,Perempuan,Operations,Manajer Logistik,Teknik,16,2,41039455,Tidak,3,4,1,1,,2,Tidak
+EMP00827,27,Laki-laki,IT,Data Engineer,IPA,1,1,59348716,Tidak,,4,4,5,2,2,Ya
+EMP00828,48,Laki-laki,Finance,Financial Analyst,IPS,13,2,18912514,,1,2,4,0,5,4,Tidak
+EMP00829,21,Laki-laki,HR,Recruiter,Kedokteran,0,0,36443253,Tidak,2,1,2,2,0,2,Tidak
+EMP00830,45,Laki-laki,HR,Recruiter,Kedokteran,8,7,62578851,Ya,2,3,1,0,0,2,Tidak
+EMP00831,51,Perempuan,IT,QA Engineer,Teknik,1,1,26153348,Ya,4,2,1,4,2,3,Tidak
+EMP00832,50,Perempuan,IT,Data Analyst,IPA,5,5,53208271,Tidak,1,4,2,0,4,1,Tidak
+EMP00833,36,Perempuan,Sales,Account Executive,IPA,3,3,27857139,Tidak,2,1,2,2,3,2,Tidak
+EMP00834,54,Perempuan,IT,Data Engineer,IPS,11,8,9980387,Tidak,4,4,4,2,2,4,Tidak
+EMP00835,58,Laki-laki,IT,Data Analyst,Bisnis,20,6,49555028,Ya,2,3,1,2,,3,Ya
+EMP00836,54,Perempuan,Finance,Budget Controller,Kedokteran,19,6,4223578,Ya,1,1,2,1,4,2,Ya
+EMP00837,44,Laki-laki,Operations,Manajer Logistik,IPS,1,1,33774628,Tidak,1,1,3,9,6,,Tidak
+EMP00838,50,Perempuan,IT,Data Engineer,Bisnis,15,12,5950781,Ya,3,1,1,0,1,3,Tidak
+EMP00839,58,Perempuan,Sales,Sales Representative,IPA,9,9,23439948,Tidak,,1,2,6,4,3,Tidak
+EMP00840,55,Laki-laki,,Training Specialist,IPS,4,2,56778582,Tidak,3,4,3,0,5,1,Tidak
+EMP00841,40,Perempuan,IT,DevOps,IPS,3,3,44796586,Ya,4,3,3,3,1,3,Tidak
+EMP00842,32,Perempuan,Operations,Manajer Logistik,IPA,13,3,60663891,Ya,4,3,3,4,5,3,Tidak
+EMP00843,49,Perempuan,HR,Recruiter,Kedokteran,11,1,19083561,Ya,2,4,1,1,5,2,Ya
+EMP00844,34,Laki-laki,IT,QA Engineer,Kedokteran,10,7,21655141,Tidak,4,1,2,9,6,3,Tidak
+EMP00845,27,Perempuan,Finance,Akuntan,Sains,1,0,35468992,Ya,1,3,4,4,3,2,Tidak
+EMP00846,43,Perempuan,HR,HR Specialist,IPS,16,4,,Ya,4,3,4,9,6,4,Tidak
+EMP00847,38,Laki-laki,Finance,Budget Controller,IPA,9,9,8777109,Tidak,3,4,4,4,2,3,Tidak
+EMP00848,55,Perempuan,Finance,Budget Controller,IPS,2,2,60682502,Tidak,2,3,4,9,5,4,Tidak
+EMP00849,25,Laki-laki,Sales,Sales Manager,Sains,17,4,35010756,Tidak,3,1,2,3,3,4,Ya
+EMP00850,51,Laki-laki,IT,Data Analyst,Teknik,19,8,42879192,Ya,4,3,2,5,0,,Tidak
+EMP00851,54,Laki-laki,IT,QA Engineer,Teknik,18,9,,Ya,4,3,1,8,1,4,Tidak
+EMP00852,34,Laki-laki,Sales,Account Executive,IPS,20,8,6865721,Ya,1,1,4,6,,1,Ya
+EMP00853,44,Perempuan,IT,DevOps,Kedokteran,13,8,4369213,Tidak,2,4,1,7,1,4,Ya
+EMP00854,53,Laki-laki,Sales,Sales Representative,IPS,17,1,,Tidak,2,4,4,4,1,3,Tidak
+EMP00855,34,Perempuan,Finance,Budget Controller,Sains,,1,18775091,Tidak,3,3,2,6,0,1,Tidak
+EMP00856,34,Perempuan,Sales,Sales Representative,Sains,1,1,12157394,Ya,1,1,3,8,2,2,Tidak
+EMP00857,47,Laki-laki,HR,Recruiter,Teknik,18,2,56069501,Ya,3,3,4,5,4,1,Tidak
+EMP00858,49,Perempuan,Sales,Account Executive,IPA,6,6,12139263,Tidak,3,2,2,2,5,3,Tidak
+EMP00859,32,Perempuan,Finance,Budget Controller,Bisnis,7,2,21097766,Ya,3,3,3,4,6,3,Tidak
+EMP00860,47,Laki-laki,IT,Software Engineer,IPA,3,3,20814800,Ya,4,4,1,4,2,,Ya
+EMP00861,55,Laki-laki,Finance,Akuntan,Kedokteran,,5,58932250,Ya,4,1,,9,,4,Tidak
+EMP00862,40,Perempuan,IT,Software Engineer,IPS,10,5,5783319,Ya,4,2,3,4,4,2,Ya
+EMP00863,41,Laki-laki,IT,DevOps,Sains,8,8,26696851,Ya,4,2,4,7,1,4,Ya
+EMP00864,25,Perempuan,Sales,Sales Manager,Teknik,6,6,47040977,Tidak,1,,3,,1,1,Tidak
+EMP00865,40,Laki-laki,HR,HR Specialist,IPS,16,10,38839754,Tidak,3,4,1,9,1,2,Tidak
+EMP00866,31,Laki-laki,IT,Data Analyst,,20,6,15683333,,4,2,1,0,5,3,Tidak
+EMP00867,45,,IT,Software Engineer,Sains,17,2,62719985,Tidak,3,1,4,0,5,1,Ya
+EMP00868,39,Perempuan,Operations,Supervisor,IPA,3,3,31987922,Ya,3,4,3,8,5,1,Ya
+EMP00869,57,Perempuan,HR,Recruiter,IPA,0,0,44970844,Tidak,1,3,3,5,5,1,Tidak
+EMP00870,47,Perempuan,HR,Training Specialist,Kedokteran,0,0,22731317,Tidak,4,3,2,2,2,4,Tidak
+EMP00871,35,Perempuan,HR,Training Specialist,Sains,17,11,21951649,Ya,1,4,1,3,3,1,Tidak
+EMP00872,29,Laki-laki,Operations,Staff Operasional,IPA,3,3,41399017,Tidak,1,2,1,0,2,4,Tidak
+EMP00873,38,Laki-laki,HR,Training Specialist,Sains,0,0,21037300,Ya,2,1,3,7,5,4,Tidak
+EMP00874,39,Perempuan,HR,HR Specialist,,16,10,26324599,Tidak,3,2,2,5,1,3,Tidak
+EMP00875,32,Perempuan,HR,Recruiter,,6,6,51126094,Tidak,3,4,3,9,3,1,Tidak
+EMP00876,25,Perempuan,HR,Training Specialist,Kedokteran,2,2,61366892,Tidak,4,2,2,3,1,3,Tidak
+EMP00877,25,Perempuan,IT,Data Engineer,Kedokteran,11,,5214710,Ya,2,1,4,8,2,1,Ya
+EMP00878,55,Perempuan,Finance,Budget Controller,IPS,3,1,33321525,Ya,1,,3,9,5,3,Tidak
+EMP00879,29,Perempuan,HR,Training Specialist,Teknik,16,11,11990517,,1,,3,5,4,4,Ya
+EMP00880,57,Laki-laki,Finance,Budget Controller,Sains,15,10,53574847,Tidak,2,2,,5,2,3,Ya
+EMP00881,48,Perempuan,Finance,Budget Controller,Bisnis,19,5,10509903,Ya,4,1,3,6,1,3,Tidak
+EMP00882,26,Laki-laki,HR,Training Specialist,Kedokteran,,4,33799270,Tidak,4,1,3,5,4,4,Tidak
+EMP00883,51,Laki-laki,Operations,Manajer Logistik,Teknik,8,5,15726170,Tidak,2,3,1,4,0,3,Tidak
+EMP00884,52,Laki-laki,Finance,Akuntan,Kedokteran,15,10,23187192,Tidak,2,2,4,6,2,2,Tidak
+EMP00885,56,Laki-laki,HR,Training Specialist,Sains,18,10,8202480,Ya,,2,4,5,,3,Tidak
+EMP00886,58,Perempuan,Finance,Akuntan,IPS,10,6,33811830,Tidak,3,4,1,2,4,1,Tidak
+EMP00887,48,Laki-laki,,HR Specialist,IPS,6,1,23717124,Tidak,4,2,4,5,1,1,Tidak
+EMP00888,35,Laki-laki,Operations,Staff Operasional,IPA,,1,28281403,Tidak,3,4,2,8,3,2,Ya
+EMP00889,34,Laki-laki,Finance,Budget Controller,Kedokteran,19,8,42759959,Tidak,1,4,4,8,0,3,Tidak
+EMP00890,51,Perempuan,IT,DevOps,Sains,16,4,24556815,Tidak,2,1,2,5,1,2,Tidak
+EMP00891,47,Perempuan,IT,Software Engineer,Sains,7,5,9785296,Tidak,3,2,3,4,,2,Tidak
+EMP00892,21,Perempuan,IT,DevOps,Teknik,16,2,54060127,Tidak,1,4,3,5,0,4,Ya
+EMP00893,44,Laki-laki,Sales,Account Executive,Sains,19,9,61576462,Ya,1,1,4,5,2,2,Ya
+EMP00894,27,Perempuan,HR,Recruiter,IPS,12,1,48768666,Tidak,1,2,4,4,3,1,Ya
+EMP00895,32,Perempuan,Sales,Account Executive,IPA,18,0,18778260,Tidak,3,2,4,0,,4,Tidak
+EMP00896,39,Perempuan,IT,DevOps,Kedokteran,6,4,16147870,Tidak,2,4,4,6,1,2,Tidak
+EMP00897,56,Laki-laki,Finance,Akuntan,Kedokteran,11,3,51709406,Ya,3,4,1,9,1,2,Tidak
+EMP00898,34,Laki-laki,Sales,Account Executive,Teknik,7,7,30634243,Tidak,3,1,3,6,2,4,Tidak
+EMP00899,38,Perempuan,IT,Software Engineer,Sains,12,7,7596852,Ya,2,1,4,,1,4,Ya
+EMP00900,21,Perempuan,Operations,Staff Operasional,Teknik,16,8,60653271,Tidak,2,3,2,2,1,1,Tidak
+EMP00901,23,Perempuan,IT,Software Engineer,Kedokteran,6,2,22715489,Ya,2,4,4,1,0,1,Tidak
+EMP00902,41,Perempuan,IT,Software Engineer,IPS,13,1,62572266,Tidak,2,4,,3,6,4,Tidak
+EMP00903,58,Laki-laki,Finance,Budget Controller,IPA,10,1,33270243,Tidak,1,3,4,1,3,4,Ya
+EMP00904,22,Laki-laki,IT,QA Engineer,Kedokteran,17,6,29524289,Tidak,2,3,4,2,2,1,Tidak
+EMP00905,32,Laki-laki,Finance,Budget Controller,Teknik,18,7,30518208,Tidak,3,1,3,4,4,1,Ya
+EMP00906,39,Perempuan,Sales,Account Executive,Kedokteran,13,5,42132636,Ya,2,1,2,1,3,3,Tidak
+EMP00907,40,Perempuan,Operations,Manajer Logistik,IPA,3,1,46582172,Ya,3,4,4,5,5,4,Ya
+EMP00908,34,Laki-laki,Sales,Sales Manager,IPA,4,4,44265483,Tidak,2,4,3,3,3,2,Tidak
+EMP00909,56,Laki-laki,HR,HR Specialist,Sains,16,9,12585010,Ya,2,1,2,7,1,1,Tidak
+EMP00910,43,Laki-laki,Sales,Sales Manager,IPA,9,6,38101157,Tidak,3,3,4,0,5,3,Tidak
+EMP00911,37,Laki-laki,Operations,Manajer Logistik,,16,9,56919711,Tidak,3,3,2,0,0,1,Tidak
+EMP00912,30,Perempuan,Sales,Sales Representative,Bisnis,2,2,29692736,Tidak,2,4,2,3,1,2,Tidak
+EMP00913,55,Perempuan,Operations,Staff Operasional,Teknik,16,,21197173,Tidak,2,4,2,0,6,,Ya
+EMP00914,31,Laki-laki,IT,Software Engineer,Teknik,17,5,22210144,Tidak,1,4,,1,5,1,Tidak
+EMP00915,40,Laki-laki,Finance,Budget Controller,IPS,2,2,35071198,Tidak,2,4,2,2,2,2,Tidak
+EMP00916,35,Perempuan,Finance,Financial Analyst,Teknik,10,5,7572690,Tidak,3,2,4,8,1,1,Tidak
+EMP00917,32,Laki-laki,IT,Software Engineer,Bisnis,17,1,9611141,Ya,3,2,2,8,3,4,Tidak
+EMP00918,51,Perempuan,HR,Training Specialist,Kedokteran,15,6,64932189,Ya,2,2,2,6,3,4,Tidak
+EMP00919,22,Laki-laki,Finance,Budget Controller,Kedokteran,1,1,49327779,Ya,1,4,4,7,3,4,Ya
+EMP00920,22,Laki-laki,IT,Data Engineer,Sains,16,12,61792325,Tidak,2,4,1,5,5,4,Tidak
+EMP00921,40,Perempuan,Operations,Supervisor,Teknik,9,9,34304459,Tidak,1,2,2,7,6,3,Tidak
+EMP00922,46,Perempuan,Sales,Sales Manager,IPA,17,12,32834634,Tidak,2,4,4,4,3,1,Ya
+EMP00923,31,Perempuan,IT,QA Engineer,Teknik,4,4,22770500,Tidak,2,1,,2,3,2,Tidak
+EMP00924,53,Laki-laki,HR,Recruiter,Bisnis,17,0,43674116,Tidak,3,4,3,4,2,3,Tidak
+EMP00925,45,Laki-laki,IT,Software Engineer,Kedokteran,14,8,8255486,Tidak,1,4,1,2,2,2,Tidak
+EMP00926,44,Perempuan,Sales,Account Executive,IPA,18,11,37490169,Ya,3,4,2,0,0,3,Tidak
+EMP00927,33,Perempuan,IT,Data Analyst,Teknik,18,9,4177879,Ya,1,1,4,3,3,4,Ya
+EMP00928,36,Laki-laki,Operations,Staff Operasional,IPA,18,8,34361557,Tidak,3,3,4,9,6,3,Tidak
+EMP00929,57,Perempuan,HR,Recruiter,Teknik,5,5,,Tidak,3,2,1,9,6,4,Tidak
+EMP00930,30,Perempuan,Operations,Manajer Logistik,Teknik,13,2,50014014,Ya,3,4,4,5,2,2,Tidak
+EMP00931,53,Perempuan,Finance,Financial Analyst,Teknik,18,1,15110188,Tidak,2,3,,4,1,1,Tidak
+EMP00932,21,Laki-laki,IT,Data Analyst,Teknik,10,3,19782808,Tidak,4,3,3,5,5,1,Tidak
+EMP00933,49,Perempuan,Finance,Financial Analyst,Sains,19,5,9812578,Tidak,1,1,1,5,0,,Tidak
+EMP00934,44,Laki-laki,HR,Recruiter,IPS,10,0,63078870,Tidak,4,3,2,3,3,4,Tidak
+EMP00935,40,Laki-laki,Operations,Manajer Logistik,IPA,11,0,19284018,Tidak,2,4,3,8,1,4,Tidak
+EMP00936,28,Perempuan,Operations,Manajer Logistik,Teknik,8,8,24000517,Tidak,3,2,4,4,3,1,Tidak
+EMP00937,55,Laki-laki,IT,DevOps,,10,1,44332747,Tidak,3,2,2,2,4,3,Tidak
+EMP00938,32,Laki-laki,IT,Software Engineer,IPS,16,6,50060543,Ya,3,1,2,0,5,3,Tidak
+EMP00939,33,Perempuan,Sales,Sales Manager,Teknik,3,3,50581711,Ya,2,3,3,8,1,,Tidak
+EMP00940,36,Perempuan,Operations,Manajer Logistik,Kedokteran,9,9,25960210,Tidak,4,3,1,2,5,1,Tidak
+EMP00941,36,Laki-laki,Operations,Manajer Logistik,IPS,13,11,29337266,Tidak,4,2,3,9,6,1,Tidak
+EMP00942,,Laki-laki,Sales,Sales Manager,IPA,6,4,38849743,Tidak,4,3,2,1,1,3,Ya
+EMP00943,33,Perempuan,Sales,Sales Manager,IPA,6,3,26851559,,1,2,3,8,0,4,Ya
+EMP00944,35,Laki-laki,HR,Recruiter,IPS,0,0,27639711,Ya,4,4,2,6,4,3,Tidak
+EMP00945,45,Perempuan,Finance,Financial Analyst,Teknik,5,2,56443461,Tidak,1,2,1,9,1,3,Tidak
+EMP00946,35,Laki-laki,HR,HR Specialist,IPA,5,1,48735799,Ya,1,1,1,2,5,2,Ya
+EMP00947,31,,Sales,Sales Representative,Bisnis,17,11,48763222,Ya,3,,1,9,0,4,Tidak
+EMP00948,38,Laki-laki,HR,Recruiter,Kedokteran,20,12,15264591,Ya,4,2,1,9,5,1,Tidak
+EMP00949,35,Laki-laki,,Sales Representative,Bisnis,14,12,19881869,,3,2,1,8,6,1,Ya
+EMP00950,51,Laki-laki,HR,Training Specialist,Teknik,20,10,57978064,Tidak,3,1,1,0,1,2,Tidak
+EMP00951,27,Laki-laki,IT,DevOps,IPA,13,8,12737115,Tidak,2,3,2,3,1,4,Tidak
+EMP00952,31,Perempuan,Finance,Budget Controller,Kedokteran,20,8,11683717,Ya,1,2,3,1,2,1,Ya
+EMP00953,33,Laki-laki,Sales,Sales Representative,Kedokteran,19,11,27481922,Ya,4,4,3,2,5,2,Tidak
+EMP00954,46,Perempuan,Sales,Sales Representative,IPS,1,1,43524571,Ya,1,,3,6,4,4,Ya
+EMP00955,27,Perempuan,Finance,Budget Controller,IPA,14,9,62155707,Tidak,1,2,2,4,0,4,Ya
+EMP00956,53,Perempuan,HR,Training Specialist,IPS,6,6,13376221,Tidak,4,1,2,6,2,2,Tidak
+EMP00957,28,Perempuan,Operations,Manajer Logistik,Kedokteran,7,4,64813456,,4,4,3,4,4,3,Ya
+EMP00958,24,Laki-laki,IT,,IPA,13,,58441416,Tidak,2,1,3,2,5,3,Tidak
+EMP00959,41,Laki-laki,Finance,Budget Controller,Kedokteran,16,6,22098281,Tidak,4,2,4,9,3,3,Tidak
+EMP00960,21,Laki-laki,HR,Training Specialist,Kedokteran,4,1,21355867,Tidak,1,4,3,8,4,2,Tidak
+EMP00961,41,Perempuan,Finance,Budget Controller,IPS,18,12,59775446,Ya,1,,1,6,5,4,Tidak
+EMP00962,32,Perempuan,HR,Training Specialist,Teknik,11,,24750542,Ya,3,3,4,1,2,3,Ya
+EMP00963,23,Perempuan,HR,HR Specialist,Teknik,11,10,7185858,Ya,1,3,1,4,3,2,Tidak
+EMP00964,57,Laki-laki,Operations,Manajer Logistik,Bisnis,18,8,22660369,Tidak,3,2,3,1,,3,Tidak
+EMP00965,51,Perempuan,Operations,Manajer Logistik,IPA,11,0,54869164,Tidak,4,3,4,0,0,3,Tidak
+EMP00966,43,Perempuan,Finance,Budget Controller,IPS,14,8,7004439,Ya,2,3,4,2,5,3,Tidak
+EMP00967,23,Perempuan,IT,DevOps,Teknik,5,4,,Ya,2,1,2,8,,4,Tidak
+EMP00968,48,Perempuan,Sales,Sales Representative,Bisnis,9,0,24816145,Ya,3,4,3,9,0,3,Tidak
+EMP00969,43,Laki-laki,Operations,Staff Operasional,Teknik,8,8,53246063,Tidak,1,1,3,1,5,4,Ya
+EMP00970,54,Laki-laki,IT,Data Analyst,Teknik,8,1,13453168,Ya,2,3,2,2,2,,Tidak
+EMP00971,54,,Finance,Budget Controller,,3,3,36418585,Tidak,2,1,1,7,4,3,Tidak
+EMP00972,28,Laki-laki,Sales,Sales Representative,Teknik,20,11,30813570,Ya,2,4,1,0,2,2,Ya
+EMP00973,25,Perempuan,HR,Recruiter,Teknik,20,0,,Ya,3,1,4,3,3,1,Ya
+EMP00974,46,Laki-laki,Operations,,Teknik,13,2,8194425,Tidak,3,3,4,7,3,,Tidak
+EMP00975,31,Perempuan,Sales,Sales Manager,Bisnis,16,12,44754563,Tidak,1,4,1,0,5,3,Tidak
+EMP00976,31,Perempuan,IT,DevOps,Sains,3,3,54886450,Tidak,4,4,4,9,3,1,Tidak
+EMP00977,42,Perempuan,HR,Training Specialist,IPS,4,0,45374498,Ya,3,3,3,7,6,1,Tidak
+EMP00978,38,Perempuan,Sales,Sales Representative,IPS,2,2,7007234,Ya,1,2,2,2,2,3,Tidak
+EMP00979,49,Laki-laki,Sales,Sales Representative,Sains,11,7,8762109,Tidak,3,1,1,1,0,1,Ya
+EMP00980,42,Laki-laki,HR,Training Specialist,IPA,16,6,51154006,Tidak,3,3,2,6,4,1,Tidak
+EMP00981,49,Perempuan,Operations,Staff Operasional,IPS,0,0,30363354,Ya,3,1,1,3,3,1,Ya
+EMP00982,44,Perempuan,Sales,Sales Representative,Bisnis,3,1,29067340,Tidak,1,1,2,5,2,,Tidak
+EMP00983,26,Laki-laki,Sales,Account Executive,Sains,4,4,45367263,,2,4,4,5,2,2,Tidak
+EMP00984,38,Laki-laki,Sales,Account Executive,IPS,15,4,60483273,Ya,1,,2,2,6,3,Ya
+EMP00985,25,Laki-laki,HR,Training Specialist,Bisnis,5,5,42221735,Tidak,4,3,4,3,1,2,Tidak
+EMP00986,43,Perempuan,Finance,Akuntan,Teknik,5,1,28029727,Tidak,3,3,3,9,5,4,Tidak
+EMP00987,47,Perempuan,Sales,Sales Representative,Sains,20,9,20367554,Ya,2,2,1,5,3,2,Ya
+EMP00988,32,Perempuan,IT,Software Engineer,IPA,2,2,19565373,Tidak,1,2,,3,1,1,Tidak
+EMP00989,34,Perempuan,IT,Data Analyst,IPS,11,1,58695682,Tidak,2,4,,9,2,2,Tidak
+EMP00990,39,Laki-laki,Operations,Supervisor,Kedokteran,5,4,54843981,Ya,3,2,2,7,3,,Tidak
+EMP00991,58,Laki-laki,Sales,Sales Representative,Teknik,18,9,47636734,Ya,4,2,1,9,3,1,Tidak
+EMP00992,41,Laki-laki,IT,Software Engineer,Kedokteran,18,12,17055335,Tidak,3,3,4,5,5,1,Tidak
+EMP00993,45,Laki-laki,Sales,Sales Representative,Teknik,15,6,38028969,Tidak,2,3,4,0,4,3,Tidak
+EMP00994,33,Laki-laki,HR,Training Specialist,Bisnis,17,12,7519880,Tidak,2,4,,9,6,4,Tidak
+EMP00995,41,Laki-laki,Finance,Budget Controller,Bisnis,2,2,60479237,Tidak,2,1,2,7,0,1,Tidak
+EMP00996,28,Laki-laki,Finance,Financial Analyst,IPS,14,1,42465277,Tidak,4,4,4,6,6,4,Tidak
+EMP00997,36,Laki-laki,Finance,Budget Controller,Kedokteran,16,1,25636379,Ya,4,2,4,7,3,1,Tidak
+EMP00998,44,Perempuan,Finance,Financial Analyst,,3,3,20016715,Tidak,2,1,1,3,0,4,Tidak
+EMP00999,54,Perempuan,Sales,Sales Representative,IPA,18,6,18539106,Tidak,3,1,,3,3,4,Tidak
+EMP01000,33,Perempuan,IT,Data Engineer,Teknik,13,6,7418592,Tidak,1,1,1,4,2,4,Tidak
+EMP01001,58,Perempuan,Operations,Supervisor,Bisnis,8,7,59256452,Tidak,1,2,3,0,2,3,Tidak
+EMP01002,34,Laki-laki,HR,Training Specialist,IPS,6,0,34441727,Ya,3,,1,2,4,1,Tidak
+EMP01003,36,Perempuan,Finance,Financial Analyst,IPA,5,1,46931672,Tidak,2,2,2,6,3,2,Tidak
+EMP01004,51,Perempuan,HR,HR Specialist,Teknik,2,2,29768452,Ya,3,4,2,8,3,1,Ya
+EMP01005,33,Perempuan,HR,Recruiter,Kedokteran,7,6,37683892,Ya,2,1,1,3,0,4,Tidak
+EMP01006,38,Perempuan,Operations,Supervisor,IPA,3,,43943506,Tidak,2,3,1,2,1,2,Tidak
+EMP01007,21,Perempuan,Sales,Sales Manager,IPS,12,11,17734724,Tidak,3,2,3,2,0,1,Tidak
+EMP01008,35,Laki-laki,HR,Recruiter,Sains,0,0,36294880,Tidak,2,1,4,0,0,4,Ya
+EMP01009,50,Laki-laki,Sales,Sales Representative,Bisnis,,0,47944956,Tidak,1,3,1,9,3,4,Tidak
+EMP01010,26,Perempuan,Finance,Akuntan,Kedokteran,13,12,26552444,Tidak,3,4,3,4,1,2,Tidak
+EMP01011,21,Perempuan,Operations,Manajer Logistik,Kedokteran,15,8,38921550,Ya,4,,2,9,0,3,Tidak
+EMP01012,48,Perempuan,IT,Software Engineer,IPS,1,1,27767471,Tidak,1,2,3,5,4,1,Tidak
+EMP01013,44,Perempuan,HR,Recruiter,Sains,1,1,7055300,Tidak,2,4,3,8,4,2,Tidak
+EMP01014,35,Laki-laki,HR,Training Specialist,Teknik,17,10,40841836,Tidak,3,4,1,6,6,3,Tidak
+EMP01015,57,Perempuan,Finance,Financial Analyst,IPS,,3,50708978,Tidak,,2,4,0,4,2,Tidak
+EMP01016,42,Perempuan,IT,Software Engineer,Teknik,4,2,59769934,Tidak,3,1,2,4,0,1,Tidak
+EMP01017,31,Laki-laki,Operations,Manajer Logistik,Sains,15,8,27887847,Tidak,4,1,4,5,0,4,Tidak
+EMP01018,39,Perempuan,Operations,Supervisor,Bisnis,19,5,43431438,Ya,1,2,1,4,0,2,Tidak
+EMP01019,23,Laki-laki,Finance,Akuntan,Kedokteran,2,2,59089218,Ya,4,1,3,3,5,4,Ya
+EMP01020,31,Perempuan,Finance,Budget Controller,Sains,11,4,43552684,Ya,2,1,2,9,,4,Tidak
+EMP01021,58,Perempuan,IT,Data Engineer,Bisnis,8,4,15036627,Tidak,4,4,2,4,1,2,Tidak
+EMP01022,45,Perempuan,IT,Data Engineer,Teknik,7,7,16511373,Ya,2,4,4,0,2,3,Tidak
+EMP01023,23,Laki-laki,HR,HR Specialist,Teknik,11,3,28451983,Tidak,4,4,1,,,4,Tidak
+EMP01024,32,Perempuan,Finance,Akuntan,Bisnis,0,0,42102296,Ya,2,3,4,9,4,2,Ya
+EMP01025,46,Laki-laki,Sales,Sales Representative,Bisnis,4,4,57281394,Ya,3,2,1,7,6,3,Ya
+EMP01026,37,Laki-laki,Operations,Manajer Logistik,IPA,18,0,10825264,Ya,3,1,3,8,6,2,Tidak
+EMP01027,44,Perempuan,IT,Data Analyst,,16,4,41176370,Ya,3,1,2,,6,2,Tidak
+EMP01028,40,Laki-laki,HR,Recruiter,Sains,9,9,38223153,Tidak,2,3,4,8,3,2,Tidak
+EMP01029,57,Laki-laki,Finance,Budget Controller,IPS,5,5,25998688,Ya,4,1,2,5,4,1,Tidak
+EMP01030,30,Perempuan,HR,HR Specialist,IPS,16,5,4754546,Tidak,4,4,2,1,5,4,Tidak
+EMP01031,51,Perempuan,HR,Training Specialist,,4,4,4773363,Ya,1,4,3,2,4,2,Ya
+EMP01032,42,Perempuan,Sales,Sales Manager,Kedokteran,2,2,49217654,Tidak,1,3,3,7,2,3,Ya
+EMP01033,25,Perempuan,Finance,Financial Analyst,IPS,0,0,14857627,Tidak,3,3,2,5,1,4,Ya
+EMP01034,51,Laki-laki,IT,DevOps,IPA,14,1,45495667,Tidak,4,2,3,7,6,2,Tidak
+EMP01035,38,Laki-laki,IT,Data Analyst,Teknik,11,1,62631970,Ya,4,1,3,2,2,3,Ya
+EMP01036,41,Laki-laki,HR,Training Specialist,IPS,13,5,29158203,Ya,3,2,4,5,2,1,Ya
+EMP01037,45,Perempuan,Operations,Staff Operasional,IPA,14,2,34785212,Tidak,3,4,3,3,5,3,Tidak
+EMP01038,41,Laki-laki,HR,HR Specialist,Kedokteran,11,11,21269240,Tidak,2,2,2,8,4,4,Tidak
+EMP01039,50,Laki-laki,HR,Recruiter,IPA,20,5,36253775,Tidak,1,4,3,7,4,1,Ya
+EMP01040,43,Perempuan,Operations,Supervisor,IPS,17,1,56771891,Tidak,4,1,3,5,4,1,Tidak
+EMP01041,29,Perempuan,Operations,Supervisor,IPA,9,3,55491170,Tidak,4,1,2,0,6,1,Tidak
+EMP01042,55,Perempuan,Sales,Sales Representative,IPA,17,4,50664877,Tidak,2,2,2,6,3,1,Tidak
+EMP01043,36,Perempuan,Operations,Staff Operasional,IPA,15,1,22306254,Ya,1,4,2,0,2,3,Ya
+EMP01044,49,Laki-laki,Operations,Manajer Logistik,Teknik,6,6,44063444,Ya,3,3,4,9,5,2,Tidak
+EMP01045,44,Perempuan,Sales,Sales Manager,Kedokteran,1,1,5708172,Tidak,4,2,3,1,6,1,Tidak
+EMP01046,26,Perempuan,HR,HR Specialist,IPS,5,5,32527189,Tidak,3,1,1,2,1,3,Tidak
+EMP01047,35,Laki-laki,Sales,Sales Representative,IPS,11,11,,Tidak,2,1,1,1,0,2,Tidak
+EMP01048,46,Laki-laki,Sales,Sales Manager,Bisnis,16,3,24299380,Tidak,2,,4,8,3,2,Tidak
+EMP01049,32,Perempuan,Finance,,Kedokteran,10,7,57772615,Tidak,4,1,4,5,2,,Tidak
+EMP01050,42,Perempuan,IT,Software Engineer,Sains,4,4,9080765,Tidak,3,3,4,1,0,2,Tidak
+EMP01051,54,Laki-laki,Operations,Supervisor,IPA,15,9,,Ya,4,2,4,,5,1,Tidak
+EMP01052,40,Perempuan,Operations,Supervisor,Kedokteran,15,,23325188,Tidak,4,1,4,7,3,4,Ya
+EMP01053,52,Laki-laki,Operations,Staff Operasional,Teknik,0,0,,Tidak,4,,2,2,5,1,Tidak
+EMP01054,49,Perempuan,,Account Executive,IPA,12,1,28077536,Ya,3,,2,7,5,1,Ya
+EMP01055,55,Perempuan,,Akuntan,Sains,7,2,57121807,Tidak,1,4,1,2,5,1,Ya
+EMP01056,40,Laki-laki,HR,Training Specialist,Kedokteran,5,1,31104204,Tidak,1,1,1,2,5,2,Tidak
+EMP01057,29,Perempuan,Finance,Akuntan,Teknik,12,11,43499594,Tidak,2,2,1,8,,2,Tidak
+EMP01058,21,Perempuan,,Financial Analyst,IPA,5,5,,Ya,4,1,3,4,2,3,Tidak
+EMP01059,24,Perempuan,IT,Data Analyst,IPS,20,12,4424403,Ya,1,1,4,6,0,2,Ya
+EMP01060,48,Laki-laki,IT,Data Analyst,IPS,7,1,20831256,Tidak,1,4,4,9,6,1,Ya
+EMP01061,34,Perempuan,Operations,Supervisor,Bisnis,3,3,,Ya,3,1,1,4,3,2,Tidak
+EMP01062,50,Perempuan,Finance,Budget Controller,Sains,16,5,12050143,Tidak,3,1,4,5,5,1,Tidak
+EMP01063,48,Laki-laki,Finance,Financial Analyst,Bisnis,7,7,8398226,Ya,1,1,1,2,2,3,Tidak
+EMP01064,33,Laki-laki,Operations,Staff Operasional,Teknik,8,2,43288040,Tidak,1,2,4,4,1,3,Tidak
+EMP01065,41,Laki-laki,Finance,Akuntan,Kedokteran,1,1,32297012,Tidak,3,3,1,7,0,4,Tidak
+EMP01066,31,Laki-laki,Sales,Account Executive,IPS,15,9,50273267,Tidak,1,1,2,7,0,2,Tidak
+EMP01067,54,Laki-laki,Finance,Akuntan,Kedokteran,16,4,8236471,Tidak,1,4,2,5,1,4,Tidak
+EMP01068,52,Laki-laki,IT,Data Analyst,IPS,11,11,37202198,Tidak,1,2,3,7,1,4,Ya
+EMP01069,50,Perempuan,Sales,Sales Manager,Bisnis,14,5,39332242,Tidak,1,3,1,8,0,2,Tidak
+EMP01070,49,Laki-laki,IT,Data Engineer,IPS,18,6,8926785,Ya,4,1,2,8,6,,Ya
+EMP01071,23,Perempuan,Finance,Budget Controller,IPA,12,6,34072142,Ya,3,4,1,6,0,1,Tidak
+EMP01072,39,Laki-laki,Operations,Manajer Logistik,Sains,2,2,4683443,Tidak,3,4,2,5,3,4,Tidak
+EMP01073,42,Laki-laki,Sales,,,0,0,57427616,Ya,4,1,2,4,3,2,Ya
+EMP01074,36,Perempuan,HR,Recruiter,IPA,3,3,59121044,Ya,4,1,1,7,2,3,Ya
+EMP01075,25,Perempuan,IT,QA Engineer,,9,2,56275881,Tidak,1,1,1,1,4,3,Ya
+EMP01076,44,Perempuan,Sales,Sales Manager,IPA,7,,6370845,Tidak,2,3,3,3,5,4,Ya
+EMP01077,49,Perempuan,Operations,Staff Operasional,Teknik,18,6,29644309,Tidak,2,4,1,5,3,2,Tidak
+EMP01078,26,Perempuan,HR,Recruiter,Sains,5,5,36061830,Tidak,2,1,3,7,3,1,Tidak
+EMP01079,29,Perempuan,Sales,Sales Representative,Teknik,7,7,12546509,Ya,1,2,3,0,1,2,Tidak
+EMP01080,45,Perempuan,Operations,Staff Operasional,IPA,17,8,62303002,Ya,2,4,3,8,1,3,Tidak
+EMP01081,35,Laki-laki,IT,Data Analyst,IPS,13,11,20382637,Tidak,2,1,1,4,3,4,Tidak
+EMP01082,22,Laki-laki,Finance,Budget Controller,IPA,0,0,62782449,Tidak,1,2,3,3,2,4,Ya
+EMP01083,37,Laki-laki,HR,HR Specialist,Bisnis,2,2,17825815,Tidak,3,3,1,5,4,4,Tidak
+EMP01084,31,Perempuan,HR,Recruiter,IPA,7,7,21814269,Tidak,2,,4,3,,4,Tidak
+EMP01085,41,Laki-laki,IT,Data Engineer,IPA,16,10,60893910,Tidak,2,2,4,7,3,2,Tidak
+EMP01086,36,Perempuan,IT,,IPA,4,4,8932732,Tidak,2,1,2,2,4,1,Ya
+EMP01087,48,Laki-laki,IT,Data Engineer,IPS,17,1,58789974,Ya,4,2,1,7,0,4,Ya
+EMP01088,31,Perempuan,IT,QA Engineer,Teknik,17,2,13739766,Tidak,1,2,3,7,2,1,Tidak
+EMP01089,35,Laki-laki,Sales,Sales Manager,Sains,7,7,46411253,Tidak,3,1,3,7,5,4,Tidak
+EMP01090,55,Perempuan,Operations,Supervisor,Kedokteran,11,3,42700779,Tidak,3,4,1,,5,3,Tidak
+EMP01091,40,Laki-laki,IT,Data Engineer,Sains,12,12,53868709,Ya,3,4,2,4,2,1,Tidak
+EMP01092,35,Laki-laki,Sales,Sales Representative,Kedokteran,2,2,24431906,Ya,4,3,3,1,5,4,Tidak
+EMP01093,24,Perempuan,HR,HR Specialist,Kedokteran,10,2,12570075,Tidak,2,1,2,8,1,4,Tidak
+EMP01094,29,Laki-laki,Sales,Account Executive,Teknik,19,0,41004123,Ya,4,4,4,7,2,2,Tidak
+EMP01095,27,Perempuan,Finance,Budget Controller,IPA,4,0,58502084,Ya,2,3,4,1,6,4,Ya
+EMP01096,29,Perempuan,HR,Recruiter,Bisnis,6,,15097953,,4,1,1,4,6,4,Ya
+EMP01097,55,Perempuan,Sales,Sales Manager,Teknik,17,1,55893599,Ya,3,2,2,7,2,2,Ya
+EMP01098,38,Laki-laki,Sales,Sales Manager,Sains,20,5,15103497,Tidak,2,4,4,0,6,3,Tidak
+EMP01099,25,,Operations,Staff Operasional,,3,1,31991217,Ya,1,1,2,5,1,3,Tidak
+EMP01100,32,Perempuan,IT,Data Analyst,IPA,17,9,27613706,Tidak,1,2,2,3,0,,Tidak
+EMP01101,41,Perempuan,HR,HR Specialist,Kedokteran,5,5,42904046,Tidak,2,3,1,,,3,Tidak
+EMP01102,39,Laki-laki,Sales,Account Executive,Bisnis,8,6,43507621,Tidak,3,1,2,5,,1,Tidak
+EMP01103,24,Perempuan,Finance,Financial Analyst,,8,3,5862818,Tidak,2,1,1,4,3,4,Ya
+EMP01104,26,Laki-laki,HR,HR Specialist,Kedokteran,14,1,60573113,Tidak,3,4,2,0,2,2,Tidak
+EMP01105,48,Laki-laki,Operations,Staff Operasional,IPA,10,1,25333239,Ya,4,3,3,2,5,2,Tidak
+EMP01106,48,Perempuan,Operations,Staff Operasional,IPS,20,2,28098088,Ya,,4,2,8,3,2,Tidak
+EMP01107,24,Perempuan,IT,Software Engineer,Teknik,6,4,7473680,Tidak,4,2,1,7,4,2,Tidak
+EMP01108,40,Laki-laki,Operations,Manajer Logistik,IPA,14,7,20080601,Ya,1,2,2,3,1,4,Ya
+EMP01109,55,Perempuan,Sales,Sales Manager,IPS,11,2,53247439,Tidak,3,4,3,5,6,3,Tidak
+EMP01110,41,Perempuan,Operations,Staff Operasional,Bisnis,18,11,42247772,Ya,3,2,2,9,5,4,Ya
+EMP01111,35,Laki-laki,Finance,Akuntan,Teknik,12,11,13851297,Tidak,2,3,4,9,4,2,Tidak
+EMP01112,37,Perempuan,IT,Software Engineer,,15,0,50902330,Tidak,3,4,2,3,6,1,Tidak
+EMP01113,,Perempuan,Sales,Sales Manager,Kedokteran,17,11,54164067,Ya,4,2,4,2,,2,Tidak
+EMP01114,30,Perempuan,IT,Data Engineer,Sains,14,0,60786177,Tidak,4,3,2,7,5,3,Tidak
+EMP01115,40,Laki-laki,Sales,Sales Manager,,19,10,45162027,Tidak,3,4,3,1,6,2,Tidak
+EMP01116,25,Laki-laki,HR,Recruiter,Kedokteran,8,8,19921598,Tidak,3,1,3,4,6,3,Ya
+EMP01117,21,,IT,Data Analyst,Bisnis,12,2,39622047,Ya,4,1,4,6,6,2,Tidak
+EMP01118,28,Perempuan,Finance,Akuntan,Sains,5,5,8571105,Ya,3,2,3,5,3,3,Tidak
+EMP01119,29,Perempuan,HR,HR Specialist,Bisnis,0,0,64589023,Ya,3,3,2,8,3,4,Tidak
+EMP01120,41,Laki-laki,Finance,Akuntan,Sains,14,9,35842442,Ya,2,3,3,1,5,4,Ya
+EMP01121,44,Perempuan,Sales,Account Executive,Kedokteran,,2,,Tidak,1,2,3,8,4,1,Tidak
+EMP01122,38,Laki-laki,Sales,Account Executive,Teknik,,10,33303532,Ya,1,3,3,3,2,2,Tidak
+EMP01123,47,Laki-laki,Sales,Account Executive,Bisnis,8,4,53356305,Tidak,4,1,2,,1,3,Tidak
+EMP01124,36,Laki-laki,Sales,Sales Manager,Kedokteran,6,6,43340193,Ya,2,2,4,3,4,1,Ya
+EMP01125,36,Laki-laki,Operations,Staff Operasional,IPS,18,2,9304174,Ya,,2,1,1,6,2,Tidak
+EMP01126,32,Perempuan,HR,Training Specialist,Bisnis,15,0,53532243,Tidak,4,3,1,4,4,3,Tidak
+EMP01127,33,Laki-laki,Operations,Supervisor,Kedokteran,2,2,60233825,Tidak,4,2,3,1,,2,Ya
+EMP01128,39,Laki-laki,Sales,Sales Manager,Bisnis,18,5,60175530,Ya,1,4,4,8,5,1,Ya
+EMP01129,49,Perempuan,,Account Executive,IPA,17,7,58502697,Tidak,1,4,1,5,6,3,Ya
+EMP01130,58,Laki-laki,Operations,Manajer Logistik,Sains,19,9,42316004,Ya,,4,1,3,4,2,Tidak
+EMP01131,32,Perempuan,HR,Recruiter,IPS,17,12,63762654,Tidak,,3,3,8,4,3,Tidak
+EMP01132,57,Laki-laki,Sales,Account Executive,Bisnis,16,5,35447464,Tidak,4,4,,9,5,3,Tidak
+EMP01133,43,Perempuan,Operations,Supervisor,IPA,13,10,32369833,Tidak,4,1,4,4,0,4,Tidak
+EMP01134,32,Perempuan,IT,DevOps,IPS,8,8,30433016,Tidak,2,2,3,5,5,4,Tidak
+EMP01135,47,Laki-laki,Sales,Account Executive,IPS,9,9,63351041,Tidak,3,2,1,6,6,1,Tidak
+EMP01136,37,Laki-laki,Operations,Staff Operasional,Teknik,6,0,42711492,Tidak,1,3,2,9,3,4,Tidak
+EMP01137,43,Laki-laki,Sales,Sales Manager,Sains,5,5,7119592,Ya,2,2,3,9,1,1,Ya
+EMP01138,56,Laki-laki,HR,Recruiter,IPA,3,3,30577194,Tidak,2,4,2,7,3,4,Tidak
+EMP01139,39,Perempuan,Sales,Sales Manager,Bisnis,3,3,5775690,Ya,2,2,3,5,3,4,Tidak
+EMP01140,35,Perempuan,IT,DevOps,Teknik,16,6,28936845,Ya,4,3,3,4,5,4,Ya
+EMP01141,36,Perempuan,IT,QA Engineer,IPS,10,2,57873569,Ya,2,2,2,8,1,4,Ya
+EMP01142,52,Laki-laki,Sales,Account Executive,Sains,2,1,8462028,Ya,4,2,1,7,0,3,Tidak
+EMP01143,44,Perempuan,Finance,Budget Controller,IPA,18,6,17524116,Ya,2,2,4,0,,2,Tidak
+EMP01144,52,Laki-laki,Finance,Financial Analyst,IPA,6,4,51733706,Ya,3,4,3,6,1,3,Ya
+EMP01145,51,Perempuan,Operations,Staff Operasional,Kedokteran,16,11,49868866,Tidak,4,4,3,0,3,1,Tidak
+EMP01146,33,Perempuan,Finance,Budget Controller,IPA,1,1,46836225,Ya,4,1,4,4,5,2,Tidak
+EMP01147,39,Laki-laki,HR,Recruiter,Teknik,19,4,41510417,,3,2,4,8,2,2,Tidak
+EMP01148,56,Laki-laki,Operations,Manajer Logistik,Sains,20,9,30255771,Ya,3,3,2,0,4,3,Tidak
+EMP01149,42,Perempuan,Operations,Supervisor,Sains,19,11,17377349,Ya,4,4,1,4,6,1,Tidak
+EMP01150,28,Laki-laki,IT,Software Engineer,IPA,6,6,23359384,Tidak,4,4,4,6,0,4,Tidak
+EMP01151,53,Perempuan,Finance,Financial Analyst,IPA,0,0,62740882,Tidak,4,4,1,1,4,3,Tidak
+EMP01152,41,Laki-laki,IT,Data Engineer,Teknik,13,8,48549074,Ya,4,4,2,1,3,4,Tidak
+EMP01153,47,Perempuan,Finance,Budget Controller,Sains,10,5,42837294,Ya,2,4,3,0,4,4,Ya
+EMP01154,43,Laki-laki,Finance,Akuntan,IPS,4,2,43403393,Ya,1,,1,6,6,4,Ya
+EMP01155,46,Laki-laki,,Akuntan,,2,0,16363709,Tidak,1,4,4,8,4,4,Tidak
+EMP01156,33,Perempuan,IT,DevOps,Kedokteran,0,0,21065132,Ya,3,2,1,3,1,4,Tidak
+EMP01157,26,Perempuan,IT,DevOps,Sains,10,9,62186504,Tidak,3,,3,8,5,3,Tidak
+EMP01158,30,Laki-laki,IT,QA Engineer,IPS,19,1,55610545,Tidak,2,,3,5,0,1,Ya
+EMP01159,24,Perempuan,Operations,Staff Operasional,Bisnis,18,0,54482668,Ya,4,2,3,6,6,4,Tidak
+EMP01160,36,Perempuan,Finance,Budget Controller,,0,0,59130461,,4,1,3,8,2,1,Tidak
+EMP01161,31,Perempuan,Operations,Supervisor,,7,3,51653223,Tidak,4,3,3,4,,3,Tidak
+EMP01162,21,Perempuan,Operations,Manajer Logistik,IPA,7,7,42608340,Ya,2,4,4,5,2,2,Ya
+EMP01163,49,Laki-laki,Operations,Staff Operasional,Teknik,5,5,34854877,Ya,4,1,2,7,2,3,Tidak
+EMP01164,55,Laki-laki,IT,Software Engineer,IPS,15,11,19737830,Ya,4,3,2,7,4,3,Tidak
+EMP01165,30,Perempuan,IT,Software Engineer,Bisnis,,10,28439762,Tidak,4,2,1,1,5,1,Tidak
+EMP01166,56,Perempuan,Finance,Akuntan,IPA,10,3,10186542,Tidak,1,1,4,6,1,3,Ya
+EMP01167,35,Perempuan,Operations,Supervisor,,9,3,23159158,Tidak,2,2,2,5,1,1,Tidak
+EMP01168,57,Perempuan,Sales,Sales Representative,IPS,0,0,61304172,Ya,1,2,2,,2,4,Ya
+EMP01169,43,Laki-laki,Operations,Supervisor,Kedokteran,11,0,38787030,Ya,4,2,4,8,5,2,Tidak
+EMP01170,36,Perempuan,Finance,Akuntan,Teknik,3,3,37376348,Ya,1,3,4,9,6,2,Tidak
+EMP01171,38,Perempuan,IT,Software Engineer,IPS,17,5,44743546,Tidak,4,4,1,2,2,4,Tidak
+EMP01172,56,Perempuan,Finance,Budget Controller,Bisnis,18,3,47731102,Tidak,1,4,3,1,0,3,Tidak
+EMP01173,47,Perempuan,Sales,Sales Representative,Bisnis,12,6,53147948,Ya,2,4,1,9,1,3,Tidak
+EMP01174,28,Laki-laki,Operations,Manajer Logistik,Kedokteran,15,11,57940453,Tidak,1,4,,3,4,3,Tidak
+EMP01175,25,Laki-laki,Sales,Sales Manager,Kedokteran,17,8,9108007,Ya,4,4,1,7,6,2,Tidak
+EMP01176,29,Perempuan,HR,HR Specialist,Sains,17,4,60208755,Tidak,4,4,2,7,4,4,Tidak
+EMP01177,27,Laki-laki,HR,HR Specialist,Kedokteran,15,12,47617807,Tidak,4,4,3,7,3,1,Tidak
+EMP01178,44,Perempuan,IT,Data Analyst,IPA,13,9,59156202,Tidak,4,1,1,8,,2,Tidak
+EMP01179,37,Perempuan,IT,DevOps,Bisnis,15,2,38181130,Tidak,2,2,2,5,1,4,Tidak
+EMP01180,34,Perempuan,Finance,Akuntan,IPS,7,7,13688242,Ya,3,4,2,,1,1,Tidak
+EMP01181,24,Laki-laki,IT,DevOps,Kedokteran,18,7,24895815,Ya,4,1,4,1,1,1,Tidak
+EMP01182,50,Laki-laki,Operations,Staff Operasional,Teknik,13,3,43392002,Tidak,4,3,3,4,4,1,Tidak
+EMP01183,57,Perempuan,Finance,Budget Controller,Sains,14,11,46392333,Tidak,3,3,3,5,2,1,Tidak
+EMP01184,53,Perempuan,Sales,Sales Representative,IPA,15,8,18234053,Tidak,,2,2,5,6,4,Ya
+EMP01185,33,Perempuan,Sales,Sales Representative,Kedokteran,8,8,6660683,Tidak,1,4,3,5,5,1,Tidak
+EMP01186,45,Laki-laki,Finance,Budget Controller,IPS,16,0,50916487,Ya,1,1,4,0,0,,Ya
+EMP01187,44,Laki-laki,Sales,Sales Manager,Sains,12,3,51275791,Tidak,3,4,3,8,5,3,Tidak
+EMP01188,25,Perempuan,Operations,,Kedokteran,4,4,55787945,Tidak,1,2,3,,4,3,Ya
+EMP01189,23,Perempuan,HR,HR Specialist,Sains,18,5,39913184,Tidak,4,3,2,4,4,2,Tidak
+EMP01190,30,Laki-laki,Finance,Budget Controller,Sains,1,1,6624024,Tidak,2,4,4,4,0,1,Ya
+EMP01191,53,Perempuan,Finance,Budget Controller,IPS,0,0,17598715,Ya,3,1,4,9,1,3,Tidak
+EMP01192,33,Perempuan,Operations,Supervisor,IPA,5,5,8966647,Tidak,4,3,1,7,6,1,Tidak
+EMP01193,48,Perempuan,HR,HR Specialist,IPS,8,7,8660968,Tidak,4,2,1,8,,4,Tidak
+EMP01194,55,Laki-laki,HR,Recruiter,IPS,16,1,13377736,Tidak,3,4,2,6,0,2,Tidak
+EMP01195,58,Laki-laki,,Staff Operasional,IPA,13,0,28077161,Tidak,1,4,3,8,1,4,Tidak
+EMP01196,32,Perempuan,Sales,Sales Manager,Teknik,0,0,47734832,Tidak,4,1,3,4,0,4,Ya
+EMP01197,47,Perempuan,Finance,Financial Analyst,Kedokteran,6,6,57187209,Ya,4,4,3,4,4,3,Tidak
+EMP01198,22,Laki-laki,Finance,Budget Controller,Teknik,17,7,19831005,Tidak,4,2,3,8,1,2,Tidak
+EMP01199,43,Perempuan,HR,HR Specialist,IPS,15,0,50424306,Tidak,1,2,4,2,5,1,Tidak
+EMP01200,56,Perempuan,Operations,Supervisor,Teknik,3,1,43633370,Tidak,4,4,4,2,5,4,Tidak

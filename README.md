@@ -4,22 +4,6 @@ Repositori ini berisi pengerjaan **Tugas Hands-On 3** menggunakan studi kasus **
 
 ---
 
-## 📁 Struktur Direktori
-
-```text
-tugas-hands-on-3/
-├── README.md                  # Ringkasan proyek, temuan, dan cara menjalankan
-├── notebook.ipynb             # Notebook utama (dapat dijalankan dari atas ke bawah)
-├── data/
-│   └── case5_employee_attrition.csv  # Dataset asli
-├── output/
-│   ├── data_bersih.csv        # Hasil pembersihan data
-│   └── kamus_data.csv         # Kamus data (kolom, tipe, n_missing, n_unik)
-└── laporan_kualitas.csv       # Tabel audit kualitas sebelum vs sesudah
-```
-
----
-
 ## 📊 Ringkasan Kasus & Dataset
 
 - **Sektor:** HR Analytics

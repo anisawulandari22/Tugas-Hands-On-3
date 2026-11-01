@@ -4,6 +4,15 @@ Repositori ini berisi pengerjaan **Tugas Hands-On 3** menggunakan studi kasus **
 
 ---
 
+## 👤 Identitas Mahasiswa
+* **Nama:** Anisa Wulandari
+* **NIM:** 23552011318
+* **Kelas:** TIF RP-23 B
+* **Program Studi:** Teknik Informatika
+* **Universitas:** Universitas Teknologi Bandung
+
+---
+
 ## 📊 Ringkasan Kasus & Dataset
 
 - **Sektor:** HR Analytics
